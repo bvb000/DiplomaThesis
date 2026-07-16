@@ -4,6 +4,6 @@ Point-Source_Okada.ipynb uses the point source model of Okada. The resulting def
 
 Finite-Source_Okada.ipynb uses the finite source model of Okada. The resulting deformations are saved in the Finite folder.
 
-Finite-Source_IGSverification.ipynb uses the finite source code to replicate IGS-calculated coseismic deformations for Turkey M7.8 2023 earthquake and Philippines M7.8 2026 earthquake.
+Finite-Source_IGSverification.ipynb uses the finite source code to replicate IGS-calculated coseismic deformations for Turkey M7.8 2023 earthquake and Philippines M7.8 2026 earthquake. Results are saved in the IGSverify folder.
 
 Thesis_Mapping.ipynb maps the Nevada Geodetic Laboratory stations and Global Centroid Moment Tensor catalog in Greece. There are some analyses of seismicity.
