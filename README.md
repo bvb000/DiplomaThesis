@@ -9,3 +9,5 @@ Finite-Source_IGSverification.ipynb uses the finite source code to replicate IGS
 Thesis_Mapping.ipynb maps the Nevada Geodetic Laboratory stations and Global Centroid Moment Tensor catalog in Greece. There are some analyses of seismicity.
 
 Point-Source_CumulativeDisp.ipynb uses the point source model to compute and visualize the cumulative coseismic displacement in Greece due to the events in the CMT catalog from the years 2000-2020.
+
+Finite-Source_CoseismicDisp.ipynb uses the finite source model to visualize the coseismic slip of the largest 10 earthquakes in Greece from 2000-2020 using contour and quiver plots. Results are in the Coseismic folder.
