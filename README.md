@@ -1,4 +1,4 @@
-This repository shows the implementation of the IGS coseismic slip prediction workflow, applied to Nevada Geodetic Laboratory's affiliated stations in Greece. IGS uses the Okada 1985 surface deformation model, along with scaling laws by Mai & Beroza (2000), Yen & Ma (2011), and Yen & Ma (2011). This workflow is applied to the 10 largest earthquakes in Greece from years 2000-2020, according to the Global Centroid Moment Tensor catalog.
+This repository shows the implementation of the IGS coseismic slip prediction workflow, applied to Nevada Geodetic Laboratory's affiliated stations in Greece. IGS uses the Okada 1985 surface deformation model, along with scaling laws by Mai & Beroza (2000), Yen & Ma (2011), and Metevier et al. (2014). This workflow is applied to the 10 largest earthquakes in Greece from years 2000-2020, according to the Global Centroid Moment Tensor catalog.
 
 Point-Source_Okada.ipynb uses the point source model of Okada. The resulting deformations are saved in the Point folder.
 
