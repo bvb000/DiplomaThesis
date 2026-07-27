@@ -1,0 +1,2 @@
+Station_ID,Station Longitude (°E),Station Latitude (°N),Event Date,Event Mag,Event Longitude (°E),Event Latitude (°N),Event Depth (km),Distance (km),dE1 [mm],dN1 [mm],dH1 [mm],dE2 [mm],dN2 [mm],dH2 [mm]
+AC24,-156.653,58.682,2025-07-16 20:37:39,7.3,-160.47,54.55,37.4,516,-1.2,-2.0,0.4,-1.2,-2.0,0.4
