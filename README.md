@@ -15,3 +15,5 @@ Point-Source_CumulativeDisp.ipynb uses the point source model to compute and vis
 Finite-Source_CoseismicDisp.ipynb uses the finite source model to visualize the coseismic slip of the largest 10 earthquakes in Greece from 2000-2020 using contour and quiver plots. Results are in the Coseismic folder.
 
 Point-Source_CoseismicDisp.ipynb uses the point source model to visualize the coseismic slip of the largest 10 earthquakes in Greece from 2000-2020 using contour and quiver plots. Results are in the Coseismic/Point folder.
+
+GNSS_CoseismicDisp.ipynb uses a Bayesian method to estimate the displacements per epoch (saved in GNSSverify.txt) and detect a cycle slip (saved in CycleSlip.txt).
