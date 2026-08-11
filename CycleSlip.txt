@@ -1,1796 +1,1876 @@
 EQ1.1
 E
-AKYREpoca tau0 della discontinuit�   =  2005.1691
-ANOPEpoca tau0 della discontinuit�   =  2005.1663
-ATRSEpoca tau0 della discontinuit�   =  2005.4018
-GVDSEpoca tau0 della discontinuit�   =  2006.5188
-KERYEpoca tau0 della discontinuit�   =  2005.0486
-KITHEpoca tau0 della discontinuit�   =  2005.0486
-KOUNEpoca tau0 della discontinuit�   =  2005.0486
-KRYOEpoca tau0 della discontinuit�   =  2005.3881
-MEN1Epoca tau0 della discontinuit�   =  2005.0486
-MET4Epoca tau0 della discontinuit�   =  2005.0486
-NEA1Epoca tau0 della discontinuit�   =  2005.0486
-PSAREpoca tau0 della discontinuit�   =  2005.0486
-RLSOEpoca tau0 della discontinuit�   =  2006.6037
-SPR2Epoca tau0 della discontinuit�   =  2006.5791
-TUC2Epoca tau0 della discontinuit�   =  2005.0486
-VASSEpoca tau0 della discontinuit�   =  2005.0486
-XRSOEpoca tau0 della discontinuit�   =  2005.0486
 N
-AKYREpoca tau0 della discontinuit�   =  2005.1691
-ANOPEpoca tau0 della discontinuit�   =  2005.1663
-ATRSEpoca tau0 della discontinuit�   =  2005.4018
-GVDSEpoca tau0 della discontinuit�   =  2006.5188
-KERYEpoca tau0 della discontinuit�   =  2005.0486
-KITHEpoca tau0 della discontinuit�   =  2005.0486
-KOUNEpoca tau0 della discontinuit�   =  2005.0486
-KRYOEpoca tau0 della discontinuit�   =  2005.3881
-MEN1Epoca tau0 della discontinuit�   =  2005.0486
-MET4Epoca tau0 della discontinuit�   =  2005.0486
-NEA1Epoca tau0 della discontinuit�   =  2005.0486
-PSAREpoca tau0 della discontinuit�   =  2005.0486
-RLSOEpoca tau0 della discontinuit�   =  2006.6037
-SPR2Epoca tau0 della discontinuit�   =  2006.5791
-TUC2Epoca tau0 della discontinuit�   =  2005.0486
-VASSEpoca tau0 della discontinuit�   =  2005.0486
-XRSOEpoca tau0 della discontinuit�   =  2005.0486
 U
-AKYREpoca tau0 della discontinuit�   =  2006.1711
-ANOPEpoca tau0 della discontinuit�   =  2006.0014
-ATRSEpoca tau0 della discontinuit�   =  2006.0014
-GVDSEpoca tau0 della discontinuit�   =  2006.4860
-KERYEpoca tau0 della discontinuit�   =  2006.0014
-KITHEpoca tau0 della discontinuit�   =  2006.0014
-KOUNEpoca tau0 della discontinuit�   =  2006.4586
-KRYOEpoca tau0 della discontinuit�   =  2006.0014
-MEN1Epoca tau0 della discontinuit�   =  2006.0014
-MET4Epoca tau0 della discontinuit�   =  2006.0014
-NEA1Epoca tau0 della discontinuit�   =  2006.0014
-PSAREpoca tau0 della discontinuit�   =  2006.4422
-RLSOEpoca tau0 della discontinuit�   =  2007.0007
-SPR2Epoca tau0 della discontinuit�   =  2007.0007
-TUC2Epoca tau0 della discontinuit�   =  2006.0014
-VASSEpoca tau0 della discontinuit�   =  2005.0212
-XRSOEpoca tau0 della discontinuit�   =  2006.0014
 EQ1.2
 E
-AKYREpoca tau0 della discontinuit�   =  2005.1691
-ANOPEpoca tau0 della discontinuit�   =  2005.1663
-ATRSEpoca tau0 della discontinuit�   =  2005.4018
-GVDSEpoca tau0 della discontinuit�   =  2006.5188
-KERYEpoca tau0 della discontinuit�   =  2005.0486
-KITHEpoca tau0 della discontinuit�   =  2005.0486
-KOUNEpoca tau0 della discontinuit�   =  2005.0486
-KRYOEpoca tau0 della discontinuit�   =  2005.3881
-MEN1Epoca tau0 della discontinuit�   =  2005.0486
-MET4Epoca tau0 della discontinuit�   =  2005.0486
-NEA1Epoca tau0 della discontinuit�   =  2005.0486
-PSAREpoca tau0 della discontinuit�   =  2005.0486
-RLSOEpoca tau0 della discontinuit�   =  2006.6037
-SPR2Epoca tau0 della discontinuit�   =  2006.5791
-TRIZEpoca tau0 della discontinuit�   =  2005.0486
-TUC2Epoca tau0 della discontinuit�   =  2005.0486
-VASSEpoca tau0 della discontinuit�   =  2005.0486
-XRSOEpoca tau0 della discontinuit�   =  2005.0486
 N
-AKYREpoca tau0 della discontinuit�   =  2005.1691
-ANOPEpoca tau0 della discontinuit�   =  2005.1663
-ATRSEpoca tau0 della discontinuit�   =  2005.4018
-GVDSEpoca tau0 della discontinuit�   =  2006.5188
-KERYEpoca tau0 della discontinuit�   =  2005.0486
-KITHEpoca tau0 della discontinuit�   =  2005.0486
-KOUNEpoca tau0 della discontinuit�   =  2005.0486
-KRYOEpoca tau0 della discontinuit�   =  2005.3881
-MEN1Epoca tau0 della discontinuit�   =  2005.0486
-MET4Epoca tau0 della discontinuit�   =  2005.0486
-NEA1Epoca tau0 della discontinuit�   =  2005.0486
-PSAREpoca tau0 della discontinuit�   =  2005.0486
-RLSOEpoca tau0 della discontinuit�   =  2006.6037
-SPR2Epoca tau0 della discontinuit�   =  2006.5791
-TRIZEpoca tau0 della discontinuit�   =  2005.0486
-TUC2Epoca tau0 della discontinuit�   =  2005.0486
-VASSEpoca tau0 della discontinuit�   =  2005.0486
-XRSOEpoca tau0 della discontinuit�   =  2005.0486
 U
-AKYREpoca tau0 della discontinuit�   =  2006.1711
-ANOPEpoca tau0 della discontinuit�   =  2006.0014
-ATRSEpoca tau0 della discontinuit�   =  2006.0014
-GVDSEpoca tau0 della discontinuit�   =  2006.4860
-KERYEpoca tau0 della discontinuit�   =  2006.0014
-KITHEpoca tau0 della discontinuit�   =  2006.0014
-KOUNEpoca tau0 della discontinuit�   =  2006.4586
-KRYOEpoca tau0 della discontinuit�   =  2006.0014
-MEN1Epoca tau0 della discontinuit�   =  2006.0014
-MET4Epoca tau0 della discontinuit�   =  2006.0014
-NEA1Epoca tau0 della discontinuit�   =  2006.0014
-PSAREpoca tau0 della discontinuit�   =  2006.4422
-RLSOEpoca tau0 della discontinuit�   =  2007.0007
-SPR2Epoca tau0 della discontinuit�   =  2007.0007
-TRIZEpoca tau0 della discontinuit�   =  2006.0014
-TUC2Epoca tau0 della discontinuit�   =  2006.0014
-VASSEpoca tau0 della discontinuit�   =  2005.0212
-XRSOEpoca tau0 della discontinuit�   =  2006.0014
 EQ2.1
 E
-ATRSEpoca tau0 della discontinuit�   =  2007.1485
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-KITHEpoca tau0 della discontinuit�   =  2007.1485
-KORIEpoca tau0 della discontinuit�   =  2008.6051
-KRYOEpoca tau0 della discontinuit�   =  2007.1513
-MEN1Epoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPETEpoca tau0 della discontinuit�   =  2008.9719
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 N
-ATRSEpoca tau0 della discontinuit�   =  2007.1485
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-KITHEpoca tau0 della discontinuit�   =  2007.1485
-KORIEpoca tau0 della discontinuit�   =  2008.6051
-KRYOEpoca tau0 della discontinuit�   =  2007.1513
-MEN1Epoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPETEpoca tau0 della discontinuit�   =  2008.9719
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 U
-ATRSEpoca tau0 della discontinuit�   =  2007.1211
-JPA1Epoca tau0 della discontinuit�   =  2008.5722
-KERYEpoca tau0 della discontinuit�   =  2008.0000
-KITHEpoca tau0 della discontinuit�   =  2007.1211
-KORIEpoca tau0 della discontinuit�   =  2009.0021
-KRYOEpoca tau0 della discontinuit�   =  2008.0055
-MEN1Epoca tau0 della discontinuit�   =  2007.1211
-MET4Epoca tau0 della discontinuit�   =  2007.1211
-PYLOEpoca tau0 della discontinuit�   =  2008.0000
-SPETEpoca tau0 della discontinuit�   =  2008.9418
-SPR2Epoca tau0 della discontinuit�   =  2008.0000
-VASSEpoca tau0 della discontinuit�   =  2008.0000
 EQ2.2
 E
-ATRSEpoca tau0 della discontinuit�   =  2007.1485
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-KITHEpoca tau0 della discontinuit�   =  2007.1485
-KORIEpoca tau0 della discontinuit�   =  2008.6051
-KRYOEpoca tau0 della discontinuit�   =  2007.1513
-MEN1Epoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPETEpoca tau0 della discontinuit�   =  2008.9719
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 N
-ATRSEpoca tau0 della discontinuit�   =  2007.1485
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-KITHEpoca tau0 della discontinuit�   =  2007.1485
-KORIEpoca tau0 della discontinuit�   =  2008.6051
-KRYOEpoca tau0 della discontinuit�   =  2007.1513
-MEN1Epoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPETEpoca tau0 della discontinuit�   =  2008.9719
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 U
-ATRSEpoca tau0 della discontinuit�   =  2007.1211
-JPA1Epoca tau0 della discontinuit�   =  2008.5722
-KERYEpoca tau0 della discontinuit�   =  2008.0000
-KITHEpoca tau0 della discontinuit�   =  2007.1211
-KORIEpoca tau0 della discontinuit�   =  2009.0021
-KRYOEpoca tau0 della discontinuit�   =  2008.0055
-MEN1Epoca tau0 della discontinuit�   =  2007.1211
-MET4Epoca tau0 della discontinuit�   =  2007.1211
-PYLOEpoca tau0 della discontinuit�   =  2008.0000
-SPETEpoca tau0 della discontinuit�   =  2008.9418
-SPR2Epoca tau0 della discontinuit�   =  2008.0000
-VASSEpoca tau0 della discontinuit�   =  2008.0000
 EQ3.1
 E
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 N
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 U
-JPA1Epoca tau0 della discontinuit�   =  2008.5722
-KERYEpoca tau0 della discontinuit�   =  2008.0000
-MET4Epoca tau0 della discontinuit�   =  2007.1211
-PYLOEpoca tau0 della discontinuit�   =  2008.0000
-SPR2Epoca tau0 della discontinuit�   =  2008.0000
-VASSEpoca tau0 della discontinuit�   =  2008.0000
 EQ3.2
 E
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 N
-JPA1Epoca tau0 della discontinuit�   =  2008.6023
-KERYEpoca tau0 della discontinuit�   =  2007.1485
-MET4Epoca tau0 della discontinuit�   =  2007.1485
-PYLOEpoca tau0 della discontinuit�   =  2007.7344
-SPR2Epoca tau0 della discontinuit�   =  2007.1485
-VASSEpoca tau0 della discontinuit�   =  2007.1485
 U
-JPA1Epoca tau0 della discontinuit�   =  2008.5722
-KERYEpoca tau0 della discontinuit�   =  2008.0000
-MET4Epoca tau0 della discontinuit�   =  2007.1211
-PYLOEpoca tau0 della discontinuit�   =  2008.0000
-SPR2Epoca tau0 della discontinuit�   =  2008.0000
-VASSEpoca tau0 della discontinuit�   =  2008.0000
 EQ4.1
 E
-MIL7Epoca tau0 della discontinuit�   =  2012.8077
-NEABEpoca tau0 della discontinuit�   =  2012.8077
-RETHEpoca tau0 della discontinuit�   =  2012.8077
-TUC2Epoca tau0 della discontinuit�   =  2012.8077
 N
-MIL7Epoca tau0 della discontinuit�   =  2012.8077
-NEABEpoca tau0 della discontinuit�   =  2012.8077
-RETHEpoca tau0 della discontinuit�   =  2012.8077
-TUC2Epoca tau0 della discontinuit�   =  2012.8077
 U
-MIL7Epoca tau0 della discontinuit�   =  2014.0014
-NEABEpoca tau0 della discontinuit�   =  2013.0021
-RETHEpoca tau0 della discontinuit�   =  2014.0014
-TUC2Epoca tau0 della discontinuit�   =  2013.0021
 EQ4.2
 E
-NEABEpoca tau0 della discontinuit�   =  2012.8077
-RETHEpoca tau0 della discontinuit�   =  2012.8077
-TUC2Epoca tau0 della discontinuit�   =  2012.8077
 N
-NEABEpoca tau0 della discontinuit�   =  2012.8077
-RETHEpoca tau0 della discontinuit�   =  2012.8077
-TUC2Epoca tau0 della discontinuit�   =  2012.8077
 U
-NEABEpoca tau0 della discontinuit�   =  2013.0021
-RETHEpoca tau0 della discontinuit�   =  2014.0014
-TUC2Epoca tau0 della discontinuit�   =  2013.0021
 EQ5.1
 E
-AFYTEpoca tau0 della discontinuit�   =  2013.9493
-ALE3Epoca tau0 della discontinuit�   =  2015.0418
-ANAVEpoca tau0 della discontinuit�   =  2013.4209
-ANDREpoca tau0 della discontinuit�   =  2013.4209
-ATALEpoca tau0 della discontinuit�   =  2013.4374
-AUT1Epoca tau0 della discontinuit�   =  2013.4209
-AYD1Epoca tau0 della discontinuit�   =  2013.4209
-AYVLEpoca tau0 della discontinuit�   =  2013.4237
-BALKEpoca tau0 della discontinuit�   =  2013.4237
-BANDEpoca tau0 della discontinuit�   =  2013.4237
-BNDREpoca tau0 della discontinuit�   =  2014.1465
-CANAEpoca tau0 della discontinuit�   =  2013.4237
-CESMEpoca tau0 della discontinuit�   =  2013.4209
-DEIREpoca tau0 della discontinuit�   =  2013.4237
-DUTHEpoca tau0 della discontinuit�   =  2013.4209
-DYNGEpoca tau0 della discontinuit�   =  2013.4401
-EDESEpoca tau0 della discontinuit�   =  2013.4209
-EDIREpoca tau0 della discontinuit�   =  2013.4237
-FLO2Epoca tau0 della discontinuit�   =  2014.3792
-GOD1Epoca tau0 della discontinuit�   =  2015.0445
-HALKEpoca tau0 della discontinuit�   =  2013.4209
-HAR3Epoca tau0 della discontinuit�   =  2014.4422
-IPS1Epoca tau0 della discontinuit�   =  2014.4613
-IPSAEpoca tau0 della discontinuit�   =  2013.4237
-ISTIEpoca tau0 della discontinuit�   =  2013.9877
-IZMIEpoca tau0 della discontinuit�   =  2013.4209
-KAL1Epoca tau0 della discontinuit�   =  2015.0281
-KAL2Epoca tau0 della discontinuit�   =  2013.9877
-KATEEpoca tau0 della discontinuit�   =  2013.4209
-KAV1Epoca tau0 della discontinuit�   =  2013.4209
-KIKAEpoca tau0 della discontinuit�   =  2013.4237
-KIRLEpoca tau0 della discontinuit�   =  2013.4237
-KOMOEpoca tau0 della discontinuit�   =  2013.9849
-KORIEpoca tau0 della discontinuit�   =  2013.4209
-KRU1Epoca tau0 della discontinuit�   =  2013.4209
-KRYOEpoca tau0 della discontinuit�   =  2014.2615
-KYMIEpoca tau0 della discontinuit�   =  2015.0418
-LEMNEpoca tau0 della discontinuit�   =  2013.4209
-LES4Epoca tau0 della discontinuit�   =  2015.0418
-LYGOEpoca tau0 della discontinuit�   =  2015.0691
-MET0Epoca tau0 della discontinuit�   =  2013.4209
-NOA1Epoca tau0 della discontinuit�   =  2013.4209
-NVRKEpoca tau0 della discontinuit�   =  2013.4209
-ORE1Epoca tau0 della discontinuit�   =  2013.4209
-PRKVEpoca tau0 della discontinuit�   =  2013.4209
-PRO2Epoca tau0 della discontinuit�   =  2013.9849
-PTOLEpoca tau0 della discontinuit�   =  2013.4209
-ROZHEpoca tau0 della discontinuit�   =  2013.4209
-SALHEpoca tau0 della discontinuit�   =  2013.4237
-SAM3Epoca tau0 della discontinuit�   =  2013.4730
-SAN9Epoca tau0 della discontinuit�   =  2013.4209
-SARYEpoca tau0 della discontinuit�   =  2013.4237
-SERREpoca tau0 della discontinuit�   =  2013.9466
-SKOPEpoca tau0 della discontinuit�   =  2013.4209
-SKYREpoca tau0 della discontinuit�   =  2013.4209
-SMOLEpoca tau0 della discontinuit�   =  2013.9877
-SPETEpoca tau0 della discontinuit�   =  2013.4209
-STRAEpoca tau0 della discontinuit�   =  2013.4209
-SVILEpoca tau0 della discontinuit�   =  2013.4346
-SYROEpoca tau0 della discontinuit�   =  2013.9685
-TEKREpoca tau0 della discontinuit�   =  2013.4237
-THI1Epoca tau0 della discontinuit�   =  2013.4209
-THS1Epoca tau0 della discontinuit�   =  2013.9466
-VDVAEpoca tau0 della discontinuit�   =  2013.4812
-VERIEpoca tau0 della discontinuit�   =  2015.2060
-VOLOEpoca tau0 della discontinuit�   =  2013.4209
-XIOSEpoca tau0 della discontinuit�   =  2013.9466
-YENCEpoca tau0 della discontinuit�   =  2013.4237
 N
-AFYTEpoca tau0 della discontinuit�   =  2013.9493
-ALE3Epoca tau0 della discontinuit�   =  2015.0418
-ANAVEpoca tau0 della discontinuit�   =  2013.4209
-ANDREpoca tau0 della discontinuit�   =  2013.4209
-ATALEpoca tau0 della discontinuit�   =  2013.4374
-AUT1Epoca tau0 della discontinuit�   =  2013.4209
-AYD1Epoca tau0 della discontinuit�   =  2013.4209
-AYVLEpoca tau0 della discontinuit�   =  2013.4237
-BALKEpoca tau0 della discontinuit�   =  2013.4237
-BANDEpoca tau0 della discontinuit�   =  2013.4237
-BNDREpoca tau0 della discontinuit�   =  2014.1465
-CANAEpoca tau0 della discontinuit�   =  2013.4237
-CESMEpoca tau0 della discontinuit�   =  2013.4209
-DEIREpoca tau0 della discontinuit�   =  2013.4237
-DUTHEpoca tau0 della discontinuit�   =  2013.4209
-DYNGEpoca tau0 della discontinuit�   =  2013.4401
-EDESEpoca tau0 della discontinuit�   =  2013.4209
-EDIREpoca tau0 della discontinuit�   =  2013.4237
-FLO2Epoca tau0 della discontinuit�   =  2014.3792
-GOD1Epoca tau0 della discontinuit�   =  2015.0445
-HALKEpoca tau0 della discontinuit�   =  2013.4209
-HAR3Epoca tau0 della discontinuit�   =  2014.4422
-IPS1Epoca tau0 della discontinuit�   =  2014.4613
-IPSAEpoca tau0 della discontinuit�   =  2013.4237
-ISTIEpoca tau0 della discontinuit�   =  2013.9877
-IZMIEpoca tau0 della discontinuit�   =  2013.4209
-KAL1Epoca tau0 della discontinuit�   =  2015.0281
-KAL2Epoca tau0 della discontinuit�   =  2013.9877
-KATEEpoca tau0 della discontinuit�   =  2013.4209
-KAV1Epoca tau0 della discontinuit�   =  2013.4209
-KIKAEpoca tau0 della discontinuit�   =  2013.4237
-KIRLEpoca tau0 della discontinuit�   =  2013.4237
-KOMOEpoca tau0 della discontinuit�   =  2013.9849
-KORIEpoca tau0 della discontinuit�   =  2013.4209
-KRU1Epoca tau0 della discontinuit�   =  2013.4209
-KRYOEpoca tau0 della discontinuit�   =  2014.2615
-KYMIEpoca tau0 della discontinuit�   =  2015.0418
-LEMNEpoca tau0 della discontinuit�   =  2013.4209
-LES4Epoca tau0 della discontinuit�   =  2015.0418
-LYGOEpoca tau0 della discontinuit�   =  2015.0691
-MET0Epoca tau0 della discontinuit�   =  2013.4209
-NOA1Epoca tau0 della discontinuit�   =  2013.4209
-NVRKEpoca tau0 della discontinuit�   =  2013.4209
-ORE1Epoca tau0 della discontinuit�   =  2013.4209
-PRKVEpoca tau0 della discontinuit�   =  2013.4209
-PRO2Epoca tau0 della discontinuit�   =  2013.9849
-PTOLEpoca tau0 della discontinuit�   =  2013.4209
-ROZHEpoca tau0 della discontinuit�   =  2013.4209
-SALHEpoca tau0 della discontinuit�   =  2013.4237
-SAM3Epoca tau0 della discontinuit�   =  2013.4730
-SAN9Epoca tau0 della discontinuit�   =  2013.4209
-SARYEpoca tau0 della discontinuit�   =  2013.4237
-SERREpoca tau0 della discontinuit�   =  2013.9466
-SKOPEpoca tau0 della discontinuit�   =  2013.4209
-SKYREpoca tau0 della discontinuit�   =  2013.4209
-SMOLEpoca tau0 della discontinuit�   =  2013.9877
-SPETEpoca tau0 della discontinuit�   =  2013.4209
-STRAEpoca tau0 della discontinuit�   =  2013.4209
-SVILEpoca tau0 della discontinuit�   =  2013.4346
-SYROEpoca tau0 della discontinuit�   =  2013.9685
-TEKREpoca tau0 della discontinuit�   =  2013.4237
-THI1Epoca tau0 della discontinuit�   =  2013.4209
-THS1Epoca tau0 della discontinuit�   =  2013.9466
-VDVAEpoca tau0 della discontinuit�   =  2013.4812
-VERIEpoca tau0 della discontinuit�   =  2015.2060
-VOLOEpoca tau0 della discontinuit�   =  2013.4209
-XIOSEpoca tau0 della discontinuit�   =  2013.9466
-YENCEpoca tau0 della discontinuit�   =  2013.4237
 U
-AFYTEpoca tau0 della discontinuit�   =  2015.0144
-ALE3Epoca tau0 della discontinuit�   =  2015.0418
-ANAVEpoca tau0 della discontinuit�   =  2015.0144
-ANDREpoca tau0 della discontinuit�   =  2015.0144
-ATALEpoca tau0 della discontinuit�   =  2015.0007
-AUT1Epoca tau0 della discontinuit�   =  2015.0007
-AYD1Epoca tau0 della discontinuit�   =  2015.0007
-AYVLEpoca tau0 della discontinuit�   =  2015.0007
-BALKEpoca tau0 della discontinuit�   =  2015.0007
-BANDEpoca tau0 della discontinuit�   =  2013.3936
-BNDREpoca tau0 della discontinuit�   =  2015.0007
-CANAEpoca tau0 della discontinuit�   =  2015.0007
-CESMEpoca tau0 della discontinuit�   =  2015.0007
-DEIREpoca tau0 della discontinuit�   =  2015.0007
-DUTHEpoca tau0 della discontinuit�   =  2015.0007
-DYNGEpoca tau0 della discontinuit�   =  2015.0007
-EDESEpoca tau0 della discontinuit�   =  2015.0144
-EDIREpoca tau0 della discontinuit�   =  2015.0007
-FLO2Epoca tau0 della discontinuit�   =  2014.2642
-GOD1Epoca tau0 della discontinuit�   =  2015.0445
-HALKEpoca tau0 della discontinuit�   =  2015.0144
-HAR3Epoca tau0 della discontinuit�   =  2014.4148
-IPS1Epoca tau0 della discontinuit�   =  2015.0007
-IPSAEpoca tau0 della discontinuit�   =  2014.0014
-ISTIEpoca tau0 della discontinuit�   =  2015.0144
-IZMIEpoca tau0 della discontinuit�   =  2015.0007
-KAL1Epoca tau0 della discontinuit�   =  2015.0281
-KAL2Epoca tau0 della discontinuit�   =  2015.0144
-KATEEpoca tau0 della discontinuit�   =  2015.0007
-KAV1Epoca tau0 della discontinuit�   =  2015.0418
-KIKAEpoca tau0 della discontinuit�   =  2015.0007
-KIRLEpoca tau0 della discontinuit�   =  2015.0007
-KOMOEpoca tau0 della discontinuit�   =  2015.0144
-KORIEpoca tau0 della discontinuit�   =  2015.0144
-KRU1Epoca tau0 della discontinuit�   =  2015.0144
-KRYOEpoca tau0 della discontinuit�   =  2014.2752
-KYMIEpoca tau0 della discontinuit�   =  2015.0418
-LEMNEpoca tau0 della discontinuit�   =  2015.0007
-LES4Epoca tau0 della discontinuit�   =  2015.0418
-LYGOEpoca tau0 della discontinuit�   =  2015.0691
-MET0Epoca tau0 della discontinuit�   =  2015.0144
-NOA1Epoca tau0 della discontinuit�   =  2015.0007
-NVRKEpoca tau0 della discontinuit�   =  2013.4209
-ORE1Epoca tau0 della discontinuit�   =  2015.0144
-PRKVEpoca tau0 della discontinuit�   =  2015.0007
-PRO2Epoca tau0 della discontinuit�   =  2015.0418
-PTOLEpoca tau0 della discontinuit�   =  2015.0144
-ROZHEpoca tau0 della discontinuit�   =  2014.0014
-SALHEpoca tau0 della discontinuit�   =  2015.0007
-SAM3Epoca tau0 della discontinuit�   =  2015.0418
-SAN9Epoca tau0 della discontinuit�   =  2015.0007
-SARYEpoca tau0 della discontinuit�   =  2015.0007
-SERREpoca tau0 della discontinuit�   =  2015.0226
-SKOPEpoca tau0 della discontinuit�   =  2015.0144
-SKYREpoca tau0 della discontinuit�   =  2015.0007
-SMOLEpoca tau0 della discontinuit�   =  2015.0144
-SPETEpoca tau0 della discontinuit�   =  2015.0144
-STRAEpoca tau0 della discontinuit�   =  2014.0014
-SVILEpoca tau0 della discontinuit�   =  2015.0144
-SYROEpoca tau0 della discontinuit�   =  2015.0144
-TEKREpoca tau0 della discontinuit�   =  2015.0007
-THI1Epoca tau0 della discontinuit�   =  2015.0144
-THS1Epoca tau0 della discontinuit�   =  2015.0144
-VDVAEpoca tau0 della discontinuit�   =  2014.3217
-VERIEpoca tau0 della discontinuit�   =  2015.2060
-VOLOEpoca tau0 della discontinuit�   =  2015.0144
-XIOSEpoca tau0 della discontinuit�   =  2015.0144
-YENCEpoca tau0 della discontinuit�   =  2015.0007
 EQ5.2
 E
-AFYTEpoca tau0 della discontinuit�   =  2013.9493
-ALE3Epoca tau0 della discontinuit�   =  2015.0418
-ANAVEpoca tau0 della discontinuit�   =  2013.4209
-ANDREpoca tau0 della discontinuit�   =  2013.4209
-ATALEpoca tau0 della discontinuit�   =  2013.4374
-AUT1Epoca tau0 della discontinuit�   =  2013.4209
-AYD1Epoca tau0 della discontinuit�   =  2013.4209
-AYVLEpoca tau0 della discontinuit�   =  2013.4237
-BALKEpoca tau0 della discontinuit�   =  2013.4237
-BANDEpoca tau0 della discontinuit�   =  2013.4237
-BNDREpoca tau0 della discontinuit�   =  2014.1465
-CANAEpoca tau0 della discontinuit�   =  2013.4237
-CESMEpoca tau0 della discontinuit�   =  2013.4209
-DEIREpoca tau0 della discontinuit�   =  2013.4237
-DUTHEpoca tau0 della discontinuit�   =  2013.4209
-DYNGEpoca tau0 della discontinuit�   =  2013.4401
-EDESEpoca tau0 della discontinuit�   =  2013.4209
-EDIREpoca tau0 della discontinuit�   =  2013.4237
-FLO2Epoca tau0 della discontinuit�   =  2014.3792
-GOD1Epoca tau0 della discontinuit�   =  2015.0445
-HALKEpoca tau0 della discontinuit�   =  2013.4209
-HAR3Epoca tau0 della discontinuit�   =  2014.4422
-IPS1Epoca tau0 della discontinuit�   =  2014.4613
-IPSAEpoca tau0 della discontinuit�   =  2013.4237
-ISTIEpoca tau0 della discontinuit�   =  2013.9877
-ISTNEpoca tau0 della discontinuit�   =  2013.4237
-IZMIEpoca tau0 della discontinuit�   =  2013.4209
-KAL1Epoca tau0 della discontinuit�   =  2015.0281
-KAL2Epoca tau0 della discontinuit�   =  2013.9877
-KATEEpoca tau0 della discontinuit�   =  2013.4209
-KAV1Epoca tau0 della discontinuit�   =  2013.4209
-KIKAEpoca tau0 della discontinuit�   =  2013.4237
-KIRLEpoca tau0 della discontinuit�   =  2013.4237
-KOMOEpoca tau0 della discontinuit�   =  2013.9849
-KORIEpoca tau0 della discontinuit�   =  2013.4209
-KRU1Epoca tau0 della discontinuit�   =  2013.4209
-KRYOEpoca tau0 della discontinuit�   =  2014.2615
-KYMIEpoca tau0 della discontinuit�   =  2015.0418
-LEMNEpoca tau0 della discontinuit�   =  2013.4209
-LES4Epoca tau0 della discontinuit�   =  2015.0418
-LYGOEpoca tau0 della discontinuit�   =  2015.0691
-MET0Epoca tau0 della discontinuit�   =  2013.4209
-NOA1Epoca tau0 della discontinuit�   =  2013.4209
-NVRKEpoca tau0 della discontinuit�   =  2013.4209
-ORE1Epoca tau0 della discontinuit�   =  2013.4209
-PRKVEpoca tau0 della discontinuit�   =  2013.4209
-PRO2Epoca tau0 della discontinuit�   =  2013.9849
-PTOLEpoca tau0 della discontinuit�   =  2013.4209
-ROZHEpoca tau0 della discontinuit�   =  2013.4209
-SALHEpoca tau0 della discontinuit�   =  2013.4237
-SAN9Epoca tau0 della discontinuit�   =  2013.4209
-SARYEpoca tau0 della discontinuit�   =  2013.4237
-SERREpoca tau0 della discontinuit�   =  2013.9466
-SKOPEpoca tau0 della discontinuit�   =  2013.4209
-SKYREpoca tau0 della discontinuit�   =  2013.4209
-SMOLEpoca tau0 della discontinuit�   =  2013.9877
-SPETEpoca tau0 della discontinuit�   =  2013.4209
-STRAEpoca tau0 della discontinuit�   =  2013.4209
-SVILEpoca tau0 della discontinuit�   =  2013.4346
-SVRTEpoca tau0 della discontinuit�   =  2013.4209
-SYROEpoca tau0 della discontinuit�   =  2013.9685
-TEKREpoca tau0 della discontinuit�   =  2013.4237
-THI1Epoca tau0 della discontinuit�   =  2013.4209
-THS1Epoca tau0 della discontinuit�   =  2013.9466
-VDVAEpoca tau0 della discontinuit�   =  2013.4812
-VERIEpoca tau0 della discontinuit�   =  2015.2060
-VOLOEpoca tau0 della discontinuit�   =  2013.4209
-XIOSEpoca tau0 della discontinuit�   =  2013.9466
-YENCEpoca tau0 della discontinuit�   =  2013.4237
-YLDZEpoca tau0 della discontinuit�   =  2014.6229
-YSSTEpoca tau0 della discontinuit�   =  2013.4209
 N
-AFYTEpoca tau0 della discontinuit�   =  2013.9493
-ALE3Epoca tau0 della discontinuit�   =  2015.0418
-ANAVEpoca tau0 della discontinuit�   =  2013.4209
-ANDREpoca tau0 della discontinuit�   =  2013.4209
-ATALEpoca tau0 della discontinuit�   =  2013.4374
-AUT1Epoca tau0 della discontinuit�   =  2013.4209
-AYD1Epoca tau0 della discontinuit�   =  2013.4209
-AYVLEpoca tau0 della discontinuit�   =  2013.4237
-BALKEpoca tau0 della discontinuit�   =  2013.4237
-BANDEpoca tau0 della discontinuit�   =  2013.4237
-BNDREpoca tau0 della discontinuit�   =  2014.1465
-CANAEpoca tau0 della discontinuit�   =  2013.4237
-CESMEpoca tau0 della discontinuit�   =  2013.4209
-DEIREpoca tau0 della discontinuit�   =  2013.4237
-DUTHEpoca tau0 della discontinuit�   =  2013.4209
-DYNGEpoca tau0 della discontinuit�   =  2013.4401
-EDESEpoca tau0 della discontinuit�   =  2013.4209
-EDIREpoca tau0 della discontinuit�   =  2013.4237
-FLO2Epoca tau0 della discontinuit�   =  2014.3792
-GOD1Epoca tau0 della discontinuit�   =  2015.0445
-HALKEpoca tau0 della discontinuit�   =  2013.4209
-HAR3Epoca tau0 della discontinuit�   =  2014.4422
-IPS1Epoca tau0 della discontinuit�   =  2014.4613
-IPSAEpoca tau0 della discontinuit�   =  2013.4237
-ISTIEpoca tau0 della discontinuit�   =  2013.9877
-ISTNEpoca tau0 della discontinuit�   =  2013.4237
-IZMIEpoca tau0 della discontinuit�   =  2013.4209
-KAL1Epoca tau0 della discontinuit�   =  2015.0281
-KAL2Epoca tau0 della discontinuit�   =  2013.9877
-KATEEpoca tau0 della discontinuit�   =  2013.4209
-KAV1Epoca tau0 della discontinuit�   =  2013.4209
-KIKAEpoca tau0 della discontinuit�   =  2013.4237
-KIRLEpoca tau0 della discontinuit�   =  2013.4237
-KOMOEpoca tau0 della discontinuit�   =  2013.9849
-KORIEpoca tau0 della discontinuit�   =  2013.4209
-KRU1Epoca tau0 della discontinuit�   =  2013.4209
-KRYOEpoca tau0 della discontinuit�   =  2014.2615
-KYMIEpoca tau0 della discontinuit�   =  2015.0418
-LEMNEpoca tau0 della discontinuit�   =  2013.4209
-LES4Epoca tau0 della discontinuit�   =  2015.0418
-LYGOEpoca tau0 della discontinuit�   =  2015.0691
-MET0Epoca tau0 della discontinuit�   =  2013.4209
-NOA1Epoca tau0 della discontinuit�   =  2013.4209
-NVRKEpoca tau0 della discontinuit�   =  2013.4209
-ORE1Epoca tau0 della discontinuit�   =  2013.4209
-PRKVEpoca tau0 della discontinuit�   =  2013.4209
-PRO2Epoca tau0 della discontinuit�   =  2013.9849
-PTOLEpoca tau0 della discontinuit�   =  2013.4209
-ROZHEpoca tau0 della discontinuit�   =  2013.4209
-SALHEpoca tau0 della discontinuit�   =  2013.4237
-SAN9Epoca tau0 della discontinuit�   =  2013.4209
-SARYEpoca tau0 della discontinuit�   =  2013.4237
-SERREpoca tau0 della discontinuit�   =  2013.9466
-SKOPEpoca tau0 della discontinuit�   =  2013.4209
-SKYREpoca tau0 della discontinuit�   =  2013.4209
-SMOLEpoca tau0 della discontinuit�   =  2013.9877
-SPETEpoca tau0 della discontinuit�   =  2013.4209
-STRAEpoca tau0 della discontinuit�   =  2013.4209
-SVILEpoca tau0 della discontinuit�   =  2013.4346
-SVRTEpoca tau0 della discontinuit�   =  2013.4209
-SYROEpoca tau0 della discontinuit�   =  2013.9685
-TEKREpoca tau0 della discontinuit�   =  2013.4237
-THI1Epoca tau0 della discontinuit�   =  2013.4209
-THS1Epoca tau0 della discontinuit�   =  2013.9466
-VDVAEpoca tau0 della discontinuit�   =  2013.4812
-VERIEpoca tau0 della discontinuit�   =  2015.2060
-VOLOEpoca tau0 della discontinuit�   =  2013.4209
-XIOSEpoca tau0 della discontinuit�   =  2013.9466
-YENCEpoca tau0 della discontinuit�   =  2013.4237
-YLDZEpoca tau0 della discontinuit�   =  2014.6229
-YSSTEpoca tau0 della discontinuit�   =  2013.4209
 U
-AFYTEpoca tau0 della discontinuit�   =  2015.0144
-ALE3Epoca tau0 della discontinuit�   =  2015.0418
-ANAVEpoca tau0 della discontinuit�   =  2015.0144
-ANDREpoca tau0 della discontinuit�   =  2015.0144
-ATALEpoca tau0 della discontinuit�   =  2015.0007
-AUT1Epoca tau0 della discontinuit�   =  2015.0007
-AYD1Epoca tau0 della discontinuit�   =  2015.0007
-AYVLEpoca tau0 della discontinuit�   =  2015.0007
-BALKEpoca tau0 della discontinuit�   =  2015.0007
-BANDEpoca tau0 della discontinuit�   =  2013.3936
-BNDREpoca tau0 della discontinuit�   =  2015.0007
-CANAEpoca tau0 della discontinuit�   =  2015.0007
-CESMEpoca tau0 della discontinuit�   =  2015.0007
-DEIREpoca tau0 della discontinuit�   =  2015.0007
-DUTHEpoca tau0 della discontinuit�   =  2015.0007
-DYNGEpoca tau0 della discontinuit�   =  2015.0007
-EDESEpoca tau0 della discontinuit�   =  2015.0144
-EDIREpoca tau0 della discontinuit�   =  2015.0007
-FLO2Epoca tau0 della discontinuit�   =  2014.2642
-GOD1Epoca tau0 della discontinuit�   =  2015.0445
-HALKEpoca tau0 della discontinuit�   =  2015.0144
-HAR3Epoca tau0 della discontinuit�   =  2014.4148
-IPS1Epoca tau0 della discontinuit�   =  2015.0007
-IPSAEpoca tau0 della discontinuit�   =  2014.0014
-ISTIEpoca tau0 della discontinuit�   =  2015.0144
-ISTNEpoca tau0 della discontinuit�   =  2015.0007
-IZMIEpoca tau0 della discontinuit�   =  2015.0007
-KAL1Epoca tau0 della discontinuit�   =  2015.0281
-KAL2Epoca tau0 della discontinuit�   =  2015.0144
-KATEEpoca tau0 della discontinuit�   =  2015.0007
-KAV1Epoca tau0 della discontinuit�   =  2015.0418
-KIKAEpoca tau0 della discontinuit�   =  2015.0007
-KIRLEpoca tau0 della discontinuit�   =  2015.0007
-KOMOEpoca tau0 della discontinuit�   =  2015.0144
-KORIEpoca tau0 della discontinuit�   =  2015.0144
-KRU1Epoca tau0 della discontinuit�   =  2015.0144
-KRYOEpoca tau0 della discontinuit�   =  2014.2752
-KYMIEpoca tau0 della discontinuit�   =  2015.0418
-LEMNEpoca tau0 della discontinuit�   =  2015.0007
-LES4Epoca tau0 della discontinuit�   =  2015.0418
-LYGOEpoca tau0 della discontinuit�   =  2015.0691
-MET0Epoca tau0 della discontinuit�   =  2015.0144
-NOA1Epoca tau0 della discontinuit�   =  2015.0007
-NVRKEpoca tau0 della discontinuit�   =  2013.4209
-ORE1Epoca tau0 della discontinuit�   =  2015.0144
-PRKVEpoca tau0 della discontinuit�   =  2015.0007
-PRO2Epoca tau0 della discontinuit�   =  2015.0418
-PTOLEpoca tau0 della discontinuit�   =  2015.0144
-ROZHEpoca tau0 della discontinuit�   =  2014.0014
-SALHEpoca tau0 della discontinuit�   =  2015.0007
-SAN9Epoca tau0 della discontinuit�   =  2015.0007
-SARYEpoca tau0 della discontinuit�   =  2015.0007
-SERREpoca tau0 della discontinuit�   =  2015.0226
-SKOPEpoca tau0 della discontinuit�   =  2015.0144
-SKYREpoca tau0 della discontinuit�   =  2015.0007
-SMOLEpoca tau0 della discontinuit�   =  2015.0144
-SPETEpoca tau0 della discontinuit�   =  2015.0144
-STRAEpoca tau0 della discontinuit�   =  2014.0014
-SVILEpoca tau0 della discontinuit�   =  2015.0144
-SVRTEpoca tau0 della discontinuit�   =  2013.3936
-SYROEpoca tau0 della discontinuit�   =  2015.0144
-TEKREpoca tau0 della discontinuit�   =  2015.0007
-THI1Epoca tau0 della discontinuit�   =  2015.0144
-THS1Epoca tau0 della discontinuit�   =  2015.0144
-VDVAEpoca tau0 della discontinuit�   =  2014.3217
-VERIEpoca tau0 della discontinuit�   =  2015.2060
-VOLOEpoca tau0 della discontinuit�   =  2015.0144
-XIOSEpoca tau0 della discontinuit�   =  2015.0144
-YENCEpoca tau0 della discontinuit�   =  2015.0007
-YLDZEpoca tau0 della discontinuit�   =  2014.5818
-YSSTEpoca tau0 della discontinuit�   =  2015.0034
 EQ6.1
 E
-ABELEpoca tau0 della discontinuit�   =  2015.8631
-AGRIEpoca tau0 della discontinuit�   =  2014.9268
-AIGIEpoca tau0 della discontinuit�   =  2015.9726
-AMFIEpoca tau0 della discontinuit�   =  2015.7700
-ANOCEpoca tau0 della discontinuit�   =  2014.9049
-ARSAEpoca tau0 della discontinuit�   =  2014.9049
-ART1Epoca tau0 della discontinuit�   =  2014.9076
-ASSOEpoca tau0 della discontinuit�   =  2015.9726
-DRA1Epoca tau0 della discontinuit�   =  2015.9671
-EGIOEpoca tau0 della discontinuit�   =  2016.5394
-EXANEpoca tau0 della discontinuit�   =  2015.9288
-EYPAEpoca tau0 della discontinuit�   =  2014.9049
-FISKEpoca tau0 della discontinuit�   =  2015.9452
-GAL3Epoca tau0 della discontinuit�   =  2014.9049
-GEYBEpoca tau0 della discontinuit�   =  2014.9103
-HIMAEpoca tau0 della discontinuit�   =  2014.9925
-IGOUEpoca tau0 della discontinuit�   =  2014.9076
-ITEAEpoca tau0 della discontinuit�   =  2014.9049
-KARPEpoca tau0 della discontinuit�   =  2014.9049
-KASIEpoca tau0 della discontinuit�   =  2014.9049
-KIPOEpoca tau0 della discontinuit�   =  2016.2601
-KLOKEpoca tau0 della discontinuit�   =  2014.9049
-KOPAEpoca tau0 della discontinuit�   =  2015.0472
-KOUNEpoca tau0 della discontinuit�   =  2014.9049
-KRDIEpoca tau0 della discontinuit�   =  2014.9049
-KRINEpoca tau0 della discontinuit�   =  2014.9049
-KTCHEpoca tau0 della discontinuit�   =  2014.9103
-LAM8Epoca tau0 della discontinuit�   =  2014.9049
-LAMJEpoca tau0 della discontinuit�   =  2015.0418
-LARMEpoca tau0 della discontinuit�   =  2014.9049
-LEPEEpoca tau0 della discontinuit�   =  2015.0144
-LFKDEpoca tau0 della discontinuit�   =  2015.0418
-LIDOEpoca tau0 della discontinuit�   =  2014.9049
-MESAEpoca tau0 della discontinuit�   =  2014.9049
-MESOEpoca tau0 della discontinuit�   =  2014.9076
-NAFPEpoca tau0 della discontinuit�   =  2014.9049
-PAT0Epoca tau0 della discontinuit�   =  2014.9295
-PATREpoca tau0 della discontinuit�   =  2014.9049
-PAXOEpoca tau0 della discontinuit�   =  2014.9131
-PONTEpoca tau0 della discontinuit�   =  2014.9459
-PSAREpoca tau0 della discontinuit�   =  2014.9049
-PSATEpoca tau0 della discontinuit�   =  2014.9049
-PVOGEpoca tau0 della discontinuit�   =  2014.9049
-PYL1Epoca tau0 della discontinuit�   =  2014.9076
-PYRGEpoca tau0 della discontinuit�   =  2014.9049
-RETSEpoca tau0 della discontinuit�   =  2014.9569
-RGNIEpoca tau0 della discontinuit�   =  2015.0965
-RLSOEpoca tau0 della discontinuit�   =  2014.9049
-ROD3Epoca tau0 della discontinuit�   =  2014.9076
-SISSEpoca tau0 della discontinuit�   =  2014.9049
-SPANEpoca tau0 della discontinuit�   =  2014.9049
-SRNDEpoca tau0 della discontinuit�   =  2016.0931
-STRFEpoca tau0 della discontinuit�   =  2016.7885
-TRIZEpoca tau0 della discontinuit�   =  2014.9049
-VALIEpoca tau0 della discontinuit�   =  2015.4579
-VLSMEpoca tau0 della discontinuit�   =  2014.9049
-VLY1Epoca tau0 della discontinuit�   =  2014.9049
-XILIEpoca tau0 della discontinuit�   =  2014.9049
-ZAK2Epoca tau0 della discontinuit�   =  2014.9049
 N
-ABELEpoca tau0 della discontinuit�   =  2015.8631
-AGRIEpoca tau0 della discontinuit�   =  2014.9268
-AIGIEpoca tau0 della discontinuit�   =  2015.9726
-AMFIEpoca tau0 della discontinuit�   =  2015.7700
-ANOCEpoca tau0 della discontinuit�   =  2014.9049
-ARSAEpoca tau0 della discontinuit�   =  2014.9049
-ART1Epoca tau0 della discontinuit�   =  2014.9076
-ASSOEpoca tau0 della discontinuit�   =  2015.9726
-DRA1Epoca tau0 della discontinuit�   =  2015.9671
-EGIOEpoca tau0 della discontinuit�   =  2016.5394
-EXANEpoca tau0 della discontinuit�   =  2015.9288
-EYPAEpoca tau0 della discontinuit�   =  2014.9049
-FISKEpoca tau0 della discontinuit�   =  2015.9452
-GAL3Epoca tau0 della discontinuit�   =  2014.9049
-GEYBEpoca tau0 della discontinuit�   =  2014.9103
-HIMAEpoca tau0 della discontinuit�   =  2014.9925
-IGOUEpoca tau0 della discontinuit�   =  2014.9076
-ITEAEpoca tau0 della discontinuit�   =  2014.9049
-KARPEpoca tau0 della discontinuit�   =  2014.9049
-KASIEpoca tau0 della discontinuit�   =  2014.9049
-KIPOEpoca tau0 della discontinuit�   =  2016.2601
-KLOKEpoca tau0 della discontinuit�   =  2014.9049
-KOPAEpoca tau0 della discontinuit�   =  2015.0472
-KOUNEpoca tau0 della discontinuit�   =  2014.9049
-KRDIEpoca tau0 della discontinuit�   =  2014.9049
-KRINEpoca tau0 della discontinuit�   =  2014.9049
-KTCHEpoca tau0 della discontinuit�   =  2014.9103
-LAM8Epoca tau0 della discontinuit�   =  2014.9049
-LAMJEpoca tau0 della discontinuit�   =  2015.0418
-LARMEpoca tau0 della discontinuit�   =  2014.9049
-LEPEEpoca tau0 della discontinuit�   =  2015.0144
-LFKDEpoca tau0 della discontinuit�   =  2015.0418
-LIDOEpoca tau0 della discontinuit�   =  2014.9049
-MESAEpoca tau0 della discontinuit�   =  2014.9049
-MESOEpoca tau0 della discontinuit�   =  2014.9076
-NAFPEpoca tau0 della discontinuit�   =  2014.9049
-PAT0Epoca tau0 della discontinuit�   =  2014.9295
-PATREpoca tau0 della discontinuit�   =  2014.9049
-PAXOEpoca tau0 della discontinuit�   =  2014.9131
-PONTEpoca tau0 della discontinuit�   =  2014.9459
-PSAREpoca tau0 della discontinuit�   =  2014.9049
-PSATEpoca tau0 della discontinuit�   =  2014.9049
-PVOGEpoca tau0 della discontinuit�   =  2014.9049
-PYL1Epoca tau0 della discontinuit�   =  2014.9076
-PYRGEpoca tau0 della discontinuit�   =  2014.9049
-RETSEpoca tau0 della discontinuit�   =  2014.9569
-RGNIEpoca tau0 della discontinuit�   =  2015.0965
-RLSOEpoca tau0 della discontinuit�   =  2014.9049
-ROD3Epoca tau0 della discontinuit�   =  2014.9076
-SISSEpoca tau0 della discontinuit�   =  2014.9049
-SPANEpoca tau0 della discontinuit�   =  2014.9049
-SRNDEpoca tau0 della discontinuit�   =  2016.0931
-STRFEpoca tau0 della discontinuit�   =  2016.7885
-TRIZEpoca tau0 della discontinuit�   =  2014.9049
-VALIEpoca tau0 della discontinuit�   =  2015.4579
-VLSMEpoca tau0 della discontinuit�   =  2014.9049
-VLY1Epoca tau0 della discontinuit�   =  2014.9049
-XILIEpoca tau0 della discontinuit�   =  2014.9049
-ZAK2Epoca tau0 della discontinuit�   =  2014.9049
 U
-ABELEpoca tau0 della discontinuit�   =  2015.8357
-AGRIEpoca tau0 della discontinuit�   =  2016.0000
-AIGIEpoca tau0 della discontinuit�   =  2016.0000
-AMFIEpoca tau0 della discontinuit�   =  2016.0000
-ANOCEpoca tau0 della discontinuit�   =  2016.0000
-ARSAEpoca tau0 della discontinuit�   =  2016.0000
-ART1Epoca tau0 della discontinuit�   =  2014.8775
-ASSOEpoca tau0 della discontinuit�   =  2015.9452
-DRA1Epoca tau0 della discontinuit�   =  2015.8960
-EGIOEpoca tau0 della discontinuit�   =  2016.5394
-EXANEpoca tau0 della discontinuit�   =  2015.8987
-EYPAEpoca tau0 della discontinuit�   =  2016.0000
-FISKEpoca tau0 della discontinuit�   =  2016.0000
-GAL3Epoca tau0 della discontinuit�   =  2016.0000
-GEYBEpoca tau0 della discontinuit�   =  2016.0000
-HIMAEpoca tau0 della discontinuit�   =  2016.0000
-IGOUEpoca tau0 della discontinuit�   =  2016.0000
-ITEAEpoca tau0 della discontinuit�   =  2016.0000
-KARPEpoca tau0 della discontinuit�   =  2015.0144
-KASIEpoca tau0 della discontinuit�   =  2016.0000
-KIPOEpoca tau0 della discontinuit�   =  2016.2601
-KLOKEpoca tau0 della discontinuit�   =  2016.0000
-KOPAEpoca tau0 della discontinuit�   =  2015.0198
-KOUNEpoca tau0 della discontinuit�   =  2016.0000
-KRDIEpoca tau0 della discontinuit�   =  2016.0137
-KRINEpoca tau0 della discontinuit�   =  2016.0000
-KTCHEpoca tau0 della discontinuit�   =  2016.0000
-LAM8Epoca tau0 della discontinuit�   =  2016.0000
-LAMJEpoca tau0 della discontinuit�   =  2016.0000
-LARMEpoca tau0 della discontinuit�   =  2016.0000
-LEPEEpoca tau0 della discontinuit�   =  2016.0000
-LFKDEpoca tau0 della discontinuit�   =  2015.0144
-LIDOEpoca tau0 della discontinuit�   =  2016.0000
-MESAEpoca tau0 della discontinuit�   =  2016.0000
-MESOEpoca tau0 della discontinuit�   =  2016.0000
-NAFPEpoca tau0 della discontinuit�   =  2016.1095
-PAT0Epoca tau0 della discontinuit�   =  2016.0000
-PATREpoca tau0 della discontinuit�   =  2016.0000
-PAXOEpoca tau0 della discontinuit�   =  2016.0000
-PONTEpoca tau0 della discontinuit�   =  2016.0000
-PSAREpoca tau0 della discontinuit�   =  2016.0000
-PSATEpoca tau0 della discontinuit�   =  2016.0219
-PVOGEpoca tau0 della discontinuit�   =  2016.0000
-PYL1Epoca tau0 della discontinuit�   =  2016.0000
-PYRGEpoca tau0 della discontinuit�   =  2016.0000
-RETSEpoca tau0 della discontinuit�   =  2016.0767
-RGNIEpoca tau0 della discontinuit�   =  2016.0767
-RLSOEpoca tau0 della discontinuit�   =  2016.0000
-ROD3Epoca tau0 della discontinuit�   =  2016.0000
-SISSEpoca tau0 della discontinuit�   =  2016.1068
-SPANEpoca tau0 della discontinuit�   =  2016.0000
-SRNDEpoca tau0 della discontinuit�   =  2016.1643
-STRFEpoca tau0 della discontinuit�   =  2016.7885
-TRIZEpoca tau0 della discontinuit�   =  2016.0000
-VALIEpoca tau0 della discontinuit�   =  2016.0000
-VLSMEpoca tau0 della discontinuit�   =  2016.0000
-VLY1Epoca tau0 della discontinuit�   =  2015.0007
-XILIEpoca tau0 della discontinuit�   =  2016.0000
-ZAK2Epoca tau0 della discontinuit�   =  2016.0000
 EQ6.2
 E
-ABELEpoca tau0 della discontinuit�   =  2015.8631
-AGRIEpoca tau0 della discontinuit�   =  2014.9268
-AIGIEpoca tau0 della discontinuit�   =  2015.9726
-AMFIEpoca tau0 della discontinuit�   =  2015.7700
-ANOCEpoca tau0 della discontinuit�   =  2014.9049
-ARSAEpoca tau0 della discontinuit�   =  2014.9049
-ART1Epoca tau0 della discontinuit�   =  2014.9076
-ASSOEpoca tau0 della discontinuit�   =  2015.9726
-DRA1Epoca tau0 della discontinuit�   =  2015.9671
-EGIOEpoca tau0 della discontinuit�   =  2016.5394
-EXANEpoca tau0 della discontinuit�   =  2015.9288
-EYPAEpoca tau0 della discontinuit�   =  2014.9049
-FISKEpoca tau0 della discontinuit�   =  2015.9452
-GAL3Epoca tau0 della discontinuit�   =  2014.9049
-GEYBEpoca tau0 della discontinuit�   =  2014.9103
-HIMAEpoca tau0 della discontinuit�   =  2014.9925
-IGOUEpoca tau0 della discontinuit�   =  2014.9076
-ITEAEpoca tau0 della discontinuit�   =  2014.9049
-KARPEpoca tau0 della discontinuit�   =  2014.9049
-KASIEpoca tau0 della discontinuit�   =  2014.9049
-KIPOEpoca tau0 della discontinuit�   =  2016.2601
-KLOKEpoca tau0 della discontinuit�   =  2014.9049
-KOPAEpoca tau0 della discontinuit�   =  2015.0472
-KOUNEpoca tau0 della discontinuit�   =  2014.9049
-KRDIEpoca tau0 della discontinuit�   =  2014.9049
-KRINEpoca tau0 della discontinuit�   =  2014.9049
-KTCHEpoca tau0 della discontinuit�   =  2014.9103
-LAM8Epoca tau0 della discontinuit�   =  2014.9049
-LAMJEpoca tau0 della discontinuit�   =  2015.0418
-LARMEpoca tau0 della discontinuit�   =  2014.9049
-LEPEEpoca tau0 della discontinuit�   =  2015.0144
-LFKDEpoca tau0 della discontinuit�   =  2015.0418
-LIDOEpoca tau0 della discontinuit�   =  2014.9049
-MESAEpoca tau0 della discontinuit�   =  2014.9049
-MESOEpoca tau0 della discontinuit�   =  2014.9076
-NAFPEpoca tau0 della discontinuit�   =  2014.9049
-PAT0Epoca tau0 della discontinuit�   =  2014.9295
-PATREpoca tau0 della discontinuit�   =  2014.9049
-PAXOEpoca tau0 della discontinuit�   =  2014.9131
-PONTEpoca tau0 della discontinuit�   =  2014.9459
-PSAREpoca tau0 della discontinuit�   =  2014.9049
-PSATEpoca tau0 della discontinuit�   =  2014.9049
-PVOGEpoca tau0 della discontinuit�   =  2014.9049
-PYL1Epoca tau0 della discontinuit�   =  2014.9076
-PYRGEpoca tau0 della discontinuit�   =  2014.9049
-RETSEpoca tau0 della discontinuit�   =  2014.9569
-RGNIEpoca tau0 della discontinuit�   =  2015.0965
-RLSOEpoca tau0 della discontinuit�   =  2014.9049
-ROD3Epoca tau0 della discontinuit�   =  2014.9076
-SISSEpoca tau0 della discontinuit�   =  2014.9049
-SPANEpoca tau0 della discontinuit�   =  2014.9049
-SRNDEpoca tau0 della discontinuit�   =  2016.0931
-STRFEpoca tau0 della discontinuit�   =  2016.7885
-TRIZEpoca tau0 della discontinuit�   =  2014.9049
-VALIEpoca tau0 della discontinuit�   =  2015.4579
-VLSMEpoca tau0 della discontinuit�   =  2014.9049
-VLY1Epoca tau0 della discontinuit�   =  2014.9049
-XILIEpoca tau0 della discontinuit�   =  2014.9049
-ZAK2Epoca tau0 della discontinuit�   =  2014.9049
 N
-ABELEpoca tau0 della discontinuit�   =  2015.8631
-AGRIEpoca tau0 della discontinuit�   =  2014.9268
-AIGIEpoca tau0 della discontinuit�   =  2015.9726
-AMFIEpoca tau0 della discontinuit�   =  2015.7700
-ANOCEpoca tau0 della discontinuit�   =  2014.9049
-ARSAEpoca tau0 della discontinuit�   =  2014.9049
-ART1Epoca tau0 della discontinuit�   =  2014.9076
-ASSOEpoca tau0 della discontinuit�   =  2015.9726
-DRA1Epoca tau0 della discontinuit�   =  2015.9671
-EGIOEpoca tau0 della discontinuit�   =  2016.5394
-EXANEpoca tau0 della discontinuit�   =  2015.9288
-EYPAEpoca tau0 della discontinuit�   =  2014.9049
-FISKEpoca tau0 della discontinuit�   =  2015.9452
-GAL3Epoca tau0 della discontinuit�   =  2014.9049
-GEYBEpoca tau0 della discontinuit�   =  2014.9103
-HIMAEpoca tau0 della discontinuit�   =  2014.9925
-IGOUEpoca tau0 della discontinuit�   =  2014.9076
-ITEAEpoca tau0 della discontinuit�   =  2014.9049
-KARPEpoca tau0 della discontinuit�   =  2014.9049
-KASIEpoca tau0 della discontinuit�   =  2014.9049
-KIPOEpoca tau0 della discontinuit�   =  2016.2601
-KLOKEpoca tau0 della discontinuit�   =  2014.9049
-KOPAEpoca tau0 della discontinuit�   =  2015.0472
-KOUNEpoca tau0 della discontinuit�   =  2014.9049
-KRDIEpoca tau0 della discontinuit�   =  2014.9049
-KRINEpoca tau0 della discontinuit�   =  2014.9049
-KTCHEpoca tau0 della discontinuit�   =  2014.9103
-LAM8Epoca tau0 della discontinuit�   =  2014.9049
-LAMJEpoca tau0 della discontinuit�   =  2015.0418
-LARMEpoca tau0 della discontinuit�   =  2014.9049
-LEPEEpoca tau0 della discontinuit�   =  2015.0144
-LFKDEpoca tau0 della discontinuit�   =  2015.0418
-LIDOEpoca tau0 della discontinuit�   =  2014.9049
-MESAEpoca tau0 della discontinuit�   =  2014.9049
-MESOEpoca tau0 della discontinuit�   =  2014.9076
-NAFPEpoca tau0 della discontinuit�   =  2014.9049
-PAT0Epoca tau0 della discontinuit�   =  2014.9295
-PATREpoca tau0 della discontinuit�   =  2014.9049
-PAXOEpoca tau0 della discontinuit�   =  2014.9131
-PONTEpoca tau0 della discontinuit�   =  2014.9459
-PSAREpoca tau0 della discontinuit�   =  2014.9049
-PSATEpoca tau0 della discontinuit�   =  2014.9049
-PVOGEpoca tau0 della discontinuit�   =  2014.9049
-PYL1Epoca tau0 della discontinuit�   =  2014.9076
-PYRGEpoca tau0 della discontinuit�   =  2014.9049
-RETSEpoca tau0 della discontinuit�   =  2014.9569
-RGNIEpoca tau0 della discontinuit�   =  2015.0965
-RLSOEpoca tau0 della discontinuit�   =  2014.9049
-ROD3Epoca tau0 della discontinuit�   =  2014.9076
-SISSEpoca tau0 della discontinuit�   =  2014.9049
-SPANEpoca tau0 della discontinuit�   =  2014.9049
-SRNDEpoca tau0 della discontinuit�   =  2016.0931
-STRFEpoca tau0 della discontinuit�   =  2016.7885
-TRIZEpoca tau0 della discontinuit�   =  2014.9049
-VALIEpoca tau0 della discontinuit�   =  2015.4579
-VLSMEpoca tau0 della discontinuit�   =  2014.9049
-VLY1Epoca tau0 della discontinuit�   =  2014.9049
-XILIEpoca tau0 della discontinuit�   =  2014.9049
-ZAK2Epoca tau0 della discontinuit�   =  2014.9049
 U
-ABELEpoca tau0 della discontinuit�   =  2015.8357
-AGRIEpoca tau0 della discontinuit�   =  2016.0000
-AIGIEpoca tau0 della discontinuit�   =  2016.0000
-AMFIEpoca tau0 della discontinuit�   =  2016.0000
-ANOCEpoca tau0 della discontinuit�   =  2016.0000
-ARSAEpoca tau0 della discontinuit�   =  2016.0000
-ART1Epoca tau0 della discontinuit�   =  2014.8775
-ASSOEpoca tau0 della discontinuit�   =  2015.9452
-DRA1Epoca tau0 della discontinuit�   =  2015.8960
-EGIOEpoca tau0 della discontinuit�   =  2016.5394
-EXANEpoca tau0 della discontinuit�   =  2015.8987
-EYPAEpoca tau0 della discontinuit�   =  2016.0000
-FISKEpoca tau0 della discontinuit�   =  2016.0000
-GAL3Epoca tau0 della discontinuit�   =  2016.0000
-GEYBEpoca tau0 della discontinuit�   =  2016.0000
-HIMAEpoca tau0 della discontinuit�   =  2016.0000
-IGOUEpoca tau0 della discontinuit�   =  2016.0000
-ITEAEpoca tau0 della discontinuit�   =  2016.0000
-KARPEpoca tau0 della discontinuit�   =  2015.0144
-KASIEpoca tau0 della discontinuit�   =  2016.0000
-KIPOEpoca tau0 della discontinuit�   =  2016.2601
-KLOKEpoca tau0 della discontinuit�   =  2016.0000
-KOPAEpoca tau0 della discontinuit�   =  2015.0198
-KOUNEpoca tau0 della discontinuit�   =  2016.0000
-KRDIEpoca tau0 della discontinuit�   =  2016.0137
-KRINEpoca tau0 della discontinuit�   =  2016.0000
-KTCHEpoca tau0 della discontinuit�   =  2016.0000
-LAM8Epoca tau0 della discontinuit�   =  2016.0000
-LAMJEpoca tau0 della discontinuit�   =  2016.0000
-LARMEpoca tau0 della discontinuit�   =  2016.0000
-LEPEEpoca tau0 della discontinuit�   =  2016.0000
-LFKDEpoca tau0 della discontinuit�   =  2015.0144
-LIDOEpoca tau0 della discontinuit�   =  2016.0000
-MESAEpoca tau0 della discontinuit�   =  2016.0000
-MESOEpoca tau0 della discontinuit�   =  2016.0000
-NAFPEpoca tau0 della discontinuit�   =  2016.1095
-PAT0Epoca tau0 della discontinuit�   =  2016.0000
-PATREpoca tau0 della discontinuit�   =  2016.0000
-PAXOEpoca tau0 della discontinuit�   =  2016.0000
-PONTEpoca tau0 della discontinuit�   =  2016.0000
-PSAREpoca tau0 della discontinuit�   =  2016.0000
-PSATEpoca tau0 della discontinuit�   =  2016.0219
-PVOGEpoca tau0 della discontinuit�   =  2016.0000
-PYL1Epoca tau0 della discontinuit�   =  2016.0000
-PYRGEpoca tau0 della discontinuit�   =  2016.0000
-RETSEpoca tau0 della discontinuit�   =  2016.0767
-RGNIEpoca tau0 della discontinuit�   =  2016.0767
-RLSOEpoca tau0 della discontinuit�   =  2016.0000
-ROD3Epoca tau0 della discontinuit�   =  2016.0000
-SISSEpoca tau0 della discontinuit�   =  2016.1068
-SPANEpoca tau0 della discontinuit�   =  2016.0000
-SRNDEpoca tau0 della discontinuit�   =  2016.1643
-STRFEpoca tau0 della discontinuit�   =  2016.7885
-TRIZEpoca tau0 della discontinuit�   =  2016.0000
-VALIEpoca tau0 della discontinuit�   =  2016.0000
-VLSMEpoca tau0 della discontinuit�   =  2016.0000
-VLY1Epoca tau0 della discontinuit�   =  2015.0007
-XILIEpoca tau0 della discontinuit�   =  2016.0000
-ZAK2Epoca tau0 della discontinuit�   =  2016.0000
 EQ7.1
 E
-IZMIEpoca tau0 della discontinuit�   =  2016.5777
-KATCEpoca tau0 della discontinuit�   =  2016.9227
-MNTSEpoca tau0 della discontinuit�   =  2018.0287
-NISYEpoca tau0 della discontinuit�   =  2016.9254
-TILOEpoca tau0 della discontinuit�   =  2016.5777
-ZKROEpoca tau0 della discontinuit�   =  2016.6461
 N
-IZMIEpoca tau0 della discontinuit�   =  2016.5777
-KATCEpoca tau0 della discontinuit�   =  2016.9227
-MNTSEpoca tau0 della discontinuit�   =  2018.0287
-NISYEpoca tau0 della discontinuit�   =  2016.9254
-TILOEpoca tau0 della discontinuit�   =  2016.5777
-ZKROEpoca tau0 della discontinuit�   =  2016.6461
 U
-IZMIEpoca tau0 della discontinuit�   =  2017.0021
-KATCEpoca tau0 della discontinuit�   =  2018.0014
-MNTSEpoca tau0 della discontinuit�   =  2018.0287
-NISYEpoca tau0 della discontinuit�   =  2018.0014
-TILOEpoca tau0 della discontinuit�   =  2016.5777
-ZKROEpoca tau0 della discontinuit�   =  2017.0021
 EQ7.2
 E
-IZMIEpoca tau0 della discontinuit�   =  2016.5777
-KATCEpoca tau0 della discontinuit�   =  2016.9227
-MNTSEpoca tau0 della discontinuit�   =  2018.0287
-NISYEpoca tau0 della discontinuit�   =  2016.9254
-TILOEpoca tau0 della discontinuit�   =  2016.5777
-ZKROEpoca tau0 della discontinuit�   =  2016.6461
 N
-IZMIEpoca tau0 della discontinuit�   =  2016.5777
-KATCEpoca tau0 della discontinuit�   =  2016.9227
-MNTSEpoca tau0 della discontinuit�   =  2018.0287
-NISYEpoca tau0 della discontinuit�   =  2016.9254
-TILOEpoca tau0 della discontinuit�   =  2016.5777
-ZKROEpoca tau0 della discontinuit�   =  2016.6461
 U
-IZMIEpoca tau0 della discontinuit�   =  2017.0021
-KATCEpoca tau0 della discontinuit�   =  2018.0014
-MNTSEpoca tau0 della discontinuit�   =  2018.0287
-NISYEpoca tau0 della discontinuit�   =  2018.0014
-TILOEpoca tau0 della discontinuit�   =  2016.5777
-ZKROEpoca tau0 della discontinuit�   =  2017.0021
 EQ8.1
 E
-ABELEpoca tau0 della discontinuit�   =  2017.8864
-AIGIEpoca tau0 della discontinuit�   =  2017.8453
-AMFIEpoca tau0 della discontinuit�   =  2017.8426
-ANIKEpoca tau0 della discontinuit�   =  2017.9001
-ANOCEpoca tau0 della discontinuit�   =  2017.8426
-ARSAEpoca tau0 della discontinuit�   =  2017.8590
-ASSOEpoca tau0 della discontinuit�   =  2017.8426
-ATALEpoca tau0 della discontinuit�   =  2017.8426
-DYNGEpoca tau0 della discontinuit�   =  2017.8426
-EGIOEpoca tau0 della discontinuit�   =  2019.4333
-EYPAEpoca tau0 della discontinuit�   =  2017.8426
-FISKEpoca tau0 della discontinuit�   =  2017.8426
-GAL3Epoca tau0 della discontinuit�   =  2017.8426
-GEYBEpoca tau0 della discontinuit�   =  2017.8426
-KAL3Epoca tau0 della discontinuit�   =  2017.8426
-KIPOEpoca tau0 della discontinuit�   =  2017.8426
-KOR1Epoca tau0 della discontinuit�   =  2018.3272
-KOUNEpoca tau0 della discontinuit�   =  2017.8426
-KRINEpoca tau0 della discontinuit�   =  2017.8426
-KTCHEpoca tau0 della discontinuit�   =  2017.8426
-LAM8Epoca tau0 della discontinuit�   =  2017.8426
-LEPEEpoca tau0 della discontinuit�   =  2017.8426
-LIDOEpoca tau0 della discontinuit�   =  2017.8426
-MESAEpoca tau0 della discontinuit�   =  2017.8426
-MESOEpoca tau0 della discontinuit�   =  2017.8426
-MTNAEpoca tau0 della discontinuit�   =  2019.6222
-NAFPEpoca tau0 della discontinuit�   =  2018.4285
-NOA1Epoca tau0 della discontinuit�   =  2017.8426
-PAT0Epoca tau0 della discontinuit�   =  2017.8426
-PONTEpoca tau0 della discontinuit�   =  2017.8426
-PSAREpoca tau0 della discontinuit�   =  2017.8426
-PSATEpoca tau0 della discontinuit�   =  2017.8426
-PVOGEpoca tau0 della discontinuit�   =  2017.8426
-PYL1Epoca tau0 della discontinuit�   =  2017.8535
-RETSEpoca tau0 della discontinuit�   =  2017.8617
-RGNIEpoca tau0 della discontinuit�   =  2017.9247
-RLSOEpoca tau0 della discontinuit�   =  2019.1869
-ROD3Epoca tau0 della discontinuit�   =  2017.8453
-SISSEpoca tau0 della discontinuit�   =  2017.8426
-STRFEpoca tau0 della discontinuit�   =  2017.8426
-TRIZEpoca tau0 della discontinuit�   =  2017.8426
-VALIEpoca tau0 della discontinuit�   =  2017.8426
-VLSMEpoca tau0 della discontinuit�   =  2017.8426
-VLY1Epoca tau0 della discontinuit�   =  2019.0363
-XILIEpoca tau0 della discontinuit�   =  2017.8426
-ZNTEEpoca tau0 della discontinuit�   =  2018.9213
 N
-ABELEpoca tau0 della discontinuit�   =  2017.8864
-AIGIEpoca tau0 della discontinuit�   =  2017.8453
-AMFIEpoca tau0 della discontinuit�   =  2017.8426
-ANIKEpoca tau0 della discontinuit�   =  2017.9001
-ANOCEpoca tau0 della discontinuit�   =  2017.8426
-ARSAEpoca tau0 della discontinuit�   =  2017.8590
-ASSOEpoca tau0 della discontinuit�   =  2017.8426
-ATALEpoca tau0 della discontinuit�   =  2017.8426
-DYNGEpoca tau0 della discontinuit�   =  2017.8426
-EGIOEpoca tau0 della discontinuit�   =  2019.4333
-EYPAEpoca tau0 della discontinuit�   =  2017.8426
-FISKEpoca tau0 della discontinuit�   =  2017.8426
-GAL3Epoca tau0 della discontinuit�   =  2017.8426
-GEYBEpoca tau0 della discontinuit�   =  2017.8426
-KAL3Epoca tau0 della discontinuit�   =  2017.8426
-KIPOEpoca tau0 della discontinuit�   =  2017.8426
-KOR1Epoca tau0 della discontinuit�   =  2018.3272
-KOUNEpoca tau0 della discontinuit�   =  2017.8426
-KRINEpoca tau0 della discontinuit�   =  2017.8426
-KTCHEpoca tau0 della discontinuit�   =  2017.8426
-LAM8Epoca tau0 della discontinuit�   =  2017.8426
-LEPEEpoca tau0 della discontinuit�   =  2017.8426
-LIDOEpoca tau0 della discontinuit�   =  2017.8426
-MESAEpoca tau0 della discontinuit�   =  2017.8426
-MESOEpoca tau0 della discontinuit�   =  2017.8426
-MTNAEpoca tau0 della discontinuit�   =  2019.6222
-NAFPEpoca tau0 della discontinuit�   =  2018.4285
-NOA1Epoca tau0 della discontinuit�   =  2017.8426
-PAT0Epoca tau0 della discontinuit�   =  2017.8426
-PONTEpoca tau0 della discontinuit�   =  2017.8426
-PSAREpoca tau0 della discontinuit�   =  2017.8426
-PSATEpoca tau0 della discontinuit�   =  2017.8426
-PVOGEpoca tau0 della discontinuit�   =  2017.8426
-PYL1Epoca tau0 della discontinuit�   =  2017.8535
-RETSEpoca tau0 della discontinuit�   =  2017.8617
-RGNIEpoca tau0 della discontinuit�   =  2017.9247
-RLSOEpoca tau0 della discontinuit�   =  2019.1869
-ROD3Epoca tau0 della discontinuit�   =  2017.8453
-SISSEpoca tau0 della discontinuit�   =  2017.8426
-STRFEpoca tau0 della discontinuit�   =  2017.8426
-TRIZEpoca tau0 della discontinuit�   =  2017.8426
-VALIEpoca tau0 della discontinuit�   =  2017.8426
-VLSMEpoca tau0 della discontinuit�   =  2017.8426
-VLY1Epoca tau0 della discontinuit�   =  2019.0363
-XILIEpoca tau0 della discontinuit�   =  2017.8426
-ZNTEEpoca tau0 della discontinuit�   =  2018.9213
 U
-ABELEpoca tau0 della discontinuit�   =  2019.0007
-AIGIEpoca tau0 della discontinuit�   =  2019.0007
-AMFIEpoca tau0 della discontinuit�   =  2019.0007
-ANIKEpoca tau0 della discontinuit�   =  2019.2854
-ANOCEpoca tau0 della discontinuit�   =  2019.0007
-ARSAEpoca tau0 della discontinuit�   =  2019.0007
-ASSOEpoca tau0 della discontinuit�   =  2018.0014
-ATALEpoca tau0 della discontinuit�   =  2017.8152
-DYNGEpoca tau0 della discontinuit�   =  2019.0007
-EGIOEpoca tau0 della discontinuit�   =  2019.4333
-EYPAEpoca tau0 della discontinuit�   =  2019.0007
-FISKEpoca tau0 della discontinuit�   =  2019.0007
-GAL3Epoca tau0 della discontinuit�   =  2018.0014
-GEYBEpoca tau0 della discontinuit�   =  2019.0007
-KAL3Epoca tau0 della discontinuit�   =  2019.0007
-KIPOEpoca tau0 della discontinuit�   =  2018.0014
-KOR1Epoca tau0 della discontinuit�   =  2018.2998
-KOUNEpoca tau0 della discontinuit�   =  2019.0007
-KRINEpoca tau0 della discontinuit�   =  2019.0007
-KTCHEpoca tau0 della discontinuit�   =  2018.0014
-LAM8Epoca tau0 della discontinuit�   =  2019.0007
-LEPEEpoca tau0 della discontinuit�   =  2019.0007
-LIDOEpoca tau0 della discontinuit�   =  2019.0007
-MESAEpoca tau0 della discontinuit�   =  2019.0007
-MESOEpoca tau0 della discontinuit�   =  2019.0034
-MTNAEpoca tau0 della discontinuit�   =  2019.6222
-NAFPEpoca tau0 della discontinuit�   =  2019.0007
-NOA1Epoca tau0 della discontinuit�   =  2019.0007
-PAT0Epoca tau0 della discontinuit�   =  2019.0007
-PONTEpoca tau0 della discontinuit�   =  2019.0007
-PSAREpoca tau0 della discontinuit�   =  2019.0007
-PSATEpoca tau0 della discontinuit�   =  2019.0007
-PVOGEpoca tau0 della discontinuit�   =  2019.0007
-PYL1Epoca tau0 della discontinuit�   =  2019.0007
-RETSEpoca tau0 della discontinuit�   =  2018.0014
-RGNIEpoca tau0 della discontinuit�   =  2019.0007
-RLSOEpoca tau0 della discontinuit�   =  2019.1869
-ROD3Epoca tau0 della discontinuit�   =  2019.0007
-SISSEpoca tau0 della discontinuit�   =  2019.0007
-STRFEpoca tau0 della discontinuit�   =  2018.0014
-TRIZEpoca tau0 della discontinuit�   =  2019.0007
-VALIEpoca tau0 della discontinuit�   =  2019.0418
-VLSMEpoca tau0 della discontinuit�   =  2019.0007
-VLY1Epoca tau0 della discontinuit�   =  2019.0363
-XILIEpoca tau0 della discontinuit�   =  2019.0007
-ZNTEEpoca tau0 della discontinuit�   =  2019.0007
 EQ8.2
 E
-ABELEpoca tau0 della discontinuit�   =  2017.8864
-AIGIEpoca tau0 della discontinuit�   =  2017.8453
-AMFIEpoca tau0 della discontinuit�   =  2017.8426
-ANIKEpoca tau0 della discontinuit�   =  2017.9001
-ANOCEpoca tau0 della discontinuit�   =  2017.8426
-ARSAEpoca tau0 della discontinuit�   =  2017.8590
-ASSOEpoca tau0 della discontinuit�   =  2017.8426
-ATALEpoca tau0 della discontinuit�   =  2017.8426
-DRA1Epoca tau0 della discontinuit�   =  2017.8426
-DYNGEpoca tau0 della discontinuit�   =  2017.8426
-EGIOEpoca tau0 della discontinuit�   =  2019.4333
-EYPAEpoca tau0 della discontinuit�   =  2017.8426
-FISKEpoca tau0 della discontinuit�   =  2017.8426
-GAL3Epoca tau0 della discontinuit�   =  2017.8426
-GEYBEpoca tau0 della discontinuit�   =  2017.8426
-KAL3Epoca tau0 della discontinuit�   =  2017.8426
-KIPOEpoca tau0 della discontinuit�   =  2017.8426
-KOR1Epoca tau0 della discontinuit�   =  2018.3272
-KOUNEpoca tau0 della discontinuit�   =  2017.8426
-KRINEpoca tau0 della discontinuit�   =  2017.8426
-KTCHEpoca tau0 della discontinuit�   =  2017.8426
-LAM8Epoca tau0 della discontinuit�   =  2017.8426
-LEPEEpoca tau0 della discontinuit�   =  2017.8426
-LIDOEpoca tau0 della discontinuit�   =  2017.8426
-MESAEpoca tau0 della discontinuit�   =  2017.8426
-MESOEpoca tau0 della discontinuit�   =  2017.8426
-MTNAEpoca tau0 della discontinuit�   =  2019.6222
-NAFPEpoca tau0 della discontinuit�   =  2018.4285
-NOA1Epoca tau0 della discontinuit�   =  2017.8426
-PAT0Epoca tau0 della discontinuit�   =  2017.8426
-PONTEpoca tau0 della discontinuit�   =  2017.8426
-PSAREpoca tau0 della discontinuit�   =  2017.8426
-PSATEpoca tau0 della discontinuit�   =  2017.8426
-PVOGEpoca tau0 della discontinuit�   =  2017.8426
-PYL1Epoca tau0 della discontinuit�   =  2017.8535
-RETSEpoca tau0 della discontinuit�   =  2017.8617
-RGNIEpoca tau0 della discontinuit�   =  2017.9247
-RLSOEpoca tau0 della discontinuit�   =  2019.1869
-ROD3Epoca tau0 della discontinuit�   =  2017.8453
-SISSEpoca tau0 della discontinuit�   =  2017.8426
-STRFEpoca tau0 della discontinuit�   =  2017.8426
-TRIZEpoca tau0 della discontinuit�   =  2017.8426
-VALIEpoca tau0 della discontinuit�   =  2017.8426
-VLSMEpoca tau0 della discontinuit�   =  2017.8426
-VLY1Epoca tau0 della discontinuit�   =  2019.0363
-XILIEpoca tau0 della discontinuit�   =  2017.8426
-ZNTEEpoca tau0 della discontinuit�   =  2018.9213
 N
-ABELEpoca tau0 della discontinuit�   =  2017.8864
-AIGIEpoca tau0 della discontinuit�   =  2017.8453
-AMFIEpoca tau0 della discontinuit�   =  2017.8426
-ANIKEpoca tau0 della discontinuit�   =  2017.9001
-ANOCEpoca tau0 della discontinuit�   =  2017.8426
-ARSAEpoca tau0 della discontinuit�   =  2017.8590
-ASSOEpoca tau0 della discontinuit�   =  2017.8426
-ATALEpoca tau0 della discontinuit�   =  2017.8426
-DRA1Epoca tau0 della discontinuit�   =  2017.8426
-DYNGEpoca tau0 della discontinuit�   =  2017.8426
-EGIOEpoca tau0 della discontinuit�   =  2019.4333
-EYPAEpoca tau0 della discontinuit�   =  2017.8426
-FISKEpoca tau0 della discontinuit�   =  2017.8426
-GAL3Epoca tau0 della discontinuit�   =  2017.8426
-GEYBEpoca tau0 della discontinuit�   =  2017.8426
-KAL3Epoca tau0 della discontinuit�   =  2017.8426
-KIPOEpoca tau0 della discontinuit�   =  2017.8426
-KOR1Epoca tau0 della discontinuit�   =  2018.3272
-KOUNEpoca tau0 della discontinuit�   =  2017.8426
-KRINEpoca tau0 della discontinuit�   =  2017.8426
-KTCHEpoca tau0 della discontinuit�   =  2017.8426
-LAM8Epoca tau0 della discontinuit�   =  2017.8426
-LEPEEpoca tau0 della discontinuit�   =  2017.8426
-LIDOEpoca tau0 della discontinuit�   =  2017.8426
-MESAEpoca tau0 della discontinuit�   =  2017.8426
-MESOEpoca tau0 della discontinuit�   =  2017.8426
-MTNAEpoca tau0 della discontinuit�   =  2019.6222
-NAFPEpoca tau0 della discontinuit�   =  2018.4285
-NOA1Epoca tau0 della discontinuit�   =  2017.8426
-PAT0Epoca tau0 della discontinuit�   =  2017.8426
-PONTEpoca tau0 della discontinuit�   =  2017.8426
-PSAREpoca tau0 della discontinuit�   =  2017.8426
-PSATEpoca tau0 della discontinuit�   =  2017.8426
-PVOGEpoca tau0 della discontinuit�   =  2017.8426
-PYL1Epoca tau0 della discontinuit�   =  2017.8535
-RETSEpoca tau0 della discontinuit�   =  2017.8617
-RGNIEpoca tau0 della discontinuit�   =  2017.9247
-RLSOEpoca tau0 della discontinuit�   =  2019.1869
-ROD3Epoca tau0 della discontinuit�   =  2017.8453
-SISSEpoca tau0 della discontinuit�   =  2017.8426
-STRFEpoca tau0 della discontinuit�   =  2017.8426
-TRIZEpoca tau0 della discontinuit�   =  2017.8426
-VALIEpoca tau0 della discontinuit�   =  2017.8426
-VLSMEpoca tau0 della discontinuit�   =  2017.8426
-VLY1Epoca tau0 della discontinuit�   =  2019.0363
-XILIEpoca tau0 della discontinuit�   =  2017.8426
-ZNTEEpoca tau0 della discontinuit�   =  2018.9213
 U
-ABELEpoca tau0 della discontinuit�   =  2019.0007
-AIGIEpoca tau0 della discontinuit�   =  2019.0007
-AMFIEpoca tau0 della discontinuit�   =  2019.0007
-ANIKEpoca tau0 della discontinuit�   =  2019.2854
-ANOCEpoca tau0 della discontinuit�   =  2019.0007
-ARSAEpoca tau0 della discontinuit�   =  2019.0007
-ASSOEpoca tau0 della discontinuit�   =  2018.0014
-ATALEpoca tau0 della discontinuit�   =  2017.8152
-DRA1Epoca tau0 della discontinuit�   =  2018.0014
-DYNGEpoca tau0 della discontinuit�   =  2019.0007
-EGIOEpoca tau0 della discontinuit�   =  2019.4333
-EYPAEpoca tau0 della discontinuit�   =  2019.0007
-FISKEpoca tau0 della discontinuit�   =  2019.0007
-GAL3Epoca tau0 della discontinuit�   =  2018.0014
-GEYBEpoca tau0 della discontinuit�   =  2019.0007
-KAL3Epoca tau0 della discontinuit�   =  2019.0007
-KIPOEpoca tau0 della discontinuit�   =  2018.0014
-KOR1Epoca tau0 della discontinuit�   =  2018.2998
-KOUNEpoca tau0 della discontinuit�   =  2019.0007
-KRINEpoca tau0 della discontinuit�   =  2019.0007
-KTCHEpoca tau0 della discontinuit�   =  2018.0014
-LAM8Epoca tau0 della discontinuit�   =  2019.0007
-LEPEEpoca tau0 della discontinuit�   =  2019.0007
-LIDOEpoca tau0 della discontinuit�   =  2019.0007
-MESAEpoca tau0 della discontinuit�   =  2019.0007
-MESOEpoca tau0 della discontinuit�   =  2019.0034
-MTNAEpoca tau0 della discontinuit�   =  2019.6222
-NAFPEpoca tau0 della discontinuit�   =  2019.0007
-NOA1Epoca tau0 della discontinuit�   =  2019.0007
-PAT0Epoca tau0 della discontinuit�   =  2019.0007
-PONTEpoca tau0 della discontinuit�   =  2019.0007
-PSAREpoca tau0 della discontinuit�   =  2019.0007
-PSATEpoca tau0 della discontinuit�   =  2019.0007
-PVOGEpoca tau0 della discontinuit�   =  2019.0007
-PYL1Epoca tau0 della discontinuit�   =  2019.0007
-RETSEpoca tau0 della discontinuit�   =  2018.0014
-RGNIEpoca tau0 della discontinuit�   =  2019.0007
-RLSOEpoca tau0 della discontinuit�   =  2019.1869
-ROD3Epoca tau0 della discontinuit�   =  2019.0007
-SISSEpoca tau0 della discontinuit�   =  2019.0007
-STRFEpoca tau0 della discontinuit�   =  2018.0014
-TRIZEpoca tau0 della discontinuit�   =  2019.0007
-VALIEpoca tau0 della discontinuit�   =  2019.0418
-VLSMEpoca tau0 della discontinuit�   =  2019.0007
-VLY1Epoca tau0 della discontinuit�   =  2019.0363
-XILIEpoca tau0 della discontinuit�   =  2019.0007
-ZNTEEpoca tau0 della discontinuit�   =  2019.0007
 EQ9.1
 E
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.3621
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-ZKROEpoca tau0 della discontinuit�   =  2019.3648
 N
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.3621
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-ZKROEpoca tau0 della discontinuit�   =  2019.3648
 U
-ARK1Epoca tau0 della discontinuit�   =  2021.0021
-HERAEpoca tau0 della discontinuit�   =  2021.0021
-IDI0Epoca tau0 della discontinuit�   =  2021.0021
-IERAEpoca tau0 della discontinuit�   =  2021.0021
-RETHEpoca tau0 della discontinuit�   =  2021.0021
-SIT1Epoca tau0 della discontinuit�   =  2021.0021
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-ZKROEpoca tau0 della discontinuit�   =  2020.0110
 EQ9.2
 E
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.3621
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-ZKROEpoca tau0 della discontinuit�   =  2019.3648
 N
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.3621
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-ZKROEpoca tau0 della discontinuit�   =  2019.3648
 U
-ARK1Epoca tau0 della discontinuit�   =  2021.0021
-HERAEpoca tau0 della discontinuit�   =  2021.0021
-IDI0Epoca tau0 della discontinuit�   =  2021.0021
-IERAEpoca tau0 della discontinuit�   =  2021.0021
-RETHEpoca tau0 della discontinuit�   =  2021.0021
-SIT1Epoca tau0 della discontinuit�   =  2021.0021
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-ZKROEpoca tau0 della discontinuit�   =  2020.0110
 EQ10.1
 E
-ALE3Epoca tau0 della discontinuit�   =  2020.0192
-ANDREpoca tau0 della discontinuit�   =  2020.0192
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-AST5Epoca tau0 della discontinuit�   =  2021.0294
-ASTYEpoca tau0 della discontinuit�   =  2020.0192
-AYVLEpoca tau0 della discontinuit�   =  2020.6954
-BAL1Epoca tau0 della discontinuit�   =  2020.7502
-BNDREpoca tau0 della discontinuit�   =  2020.6954
-DATCEpoca tau0 della discontinuit�   =  2020.6954
-DEI1Epoca tau0 della discontinuit�   =  2020.6954
-DIDIEpoca tau0 della discontinuit�   =  2020.6954
-DUTHEpoca tau0 della discontinuit�   =  2019.8576
-EDIREpoca tau0 della discontinuit�   =  2020.7775
-GODAEpoca tau0 della discontinuit�   =  2020.7775
-HAR3Epoca tau0 della discontinuit�   =  2021.0267
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.8604
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-IKAREpoca tau0 della discontinuit�   =  2021.0294
-ISTNEpoca tau0 della discontinuit�   =  2020.7337
-IZMIEpoca tau0 della discontinuit�   =  2019.8576
-KALYEpoca tau0 della discontinuit�   =  2020.0192
-KARBEpoca tau0 della discontinuit�   =  2020.7337
-KATCEpoca tau0 della discontinuit�   =  2019.8604
-KAV1Epoca tau0 della discontinuit�   =  2020.0192
-KIKAEpoca tau0 della discontinuit�   =  2020.7337
-KIRLEpoca tau0 della discontinuit�   =  2020.7337
-KISMEpoca tau0 della discontinuit�   =  2021.0294
-KOM1Epoca tau0 della discontinuit�   =  2021.0294
-KRP1Epoca tau0 della discontinuit�   =  2021.5222
-KRU1Epoca tau0 della discontinuit�   =  2020.0192
-LEMNEpoca tau0 della discontinuit�   =  2020.1314
-LES4Epoca tau0 della discontinuit�   =  2020.0329
-MIL7Epoca tau0 della discontinuit�   =  2019.8576
-MOI2Epoca tau0 della discontinuit�   =  2021.5222
-MUG1Epoca tau0 della discontinuit�   =  2020.7447
-MYKNEpoca tau0 della discontinuit�   =  2021.5222
-NAXOEpoca tau0 della discontinuit�   =  2020.0192
-NISYEpoca tau0 della discontinuit�   =  2021.6838
-ORE1Epoca tau0 della discontinuit�   =  2020.0192
-PRKVEpoca tau0 della discontinuit�   =  2019.8576
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-RODOEpoca tau0 della discontinuit�   =  2020.0192
-SALHEpoca tau0 della discontinuit�   =  2020.7337
-SAM3Epoca tau0 della discontinuit�   =  2020.0192
-SAN6Epoca tau0 della discontinuit�   =  2019.8631
-SARYEpoca tau0 della discontinuit�   =  2020.7337
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-SKYREpoca tau0 della discontinuit�   =  2019.8576
-SLVREpoca tau0 della discontinuit�   =  2020.7337
-TEKREpoca tau0 della discontinuit�   =  2020.7337
-TUC2Epoca tau0 della discontinuit�   =  2019.8576
-VAM0Epoca tau0 della discontinuit�   =  2020.8542
-XIOSEpoca tau0 della discontinuit�   =  2020.0192
-YEN1Epoca tau0 della discontinuit�   =  2020.7337
-YLDZEpoca tau0 della discontinuit�   =  2019.9945
-ZKROEpoca tau0 della discontinuit�   =  2019.9398
 N
-ALE3Epoca tau0 della discontinuit�   =  2020.0192
-ANDREpoca tau0 della discontinuit�   =  2020.0192
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-AST5Epoca tau0 della discontinuit�   =  2021.0294
-ASTYEpoca tau0 della discontinuit�   =  2020.0192
-AYVLEpoca tau0 della discontinuit�   =  2020.6954
-BAL1Epoca tau0 della discontinuit�   =  2020.7502
-BNDREpoca tau0 della discontinuit�   =  2020.6954
-DATCEpoca tau0 della discontinuit�   =  2020.6954
-DEI1Epoca tau0 della discontinuit�   =  2020.6954
-DIDIEpoca tau0 della discontinuit�   =  2020.6954
-DUTHEpoca tau0 della discontinuit�   =  2019.8576
-EDIREpoca tau0 della discontinuit�   =  2020.7775
-GODAEpoca tau0 della discontinuit�   =  2020.7775
-HAR3Epoca tau0 della discontinuit�   =  2021.0267
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.8604
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-IKAREpoca tau0 della discontinuit�   =  2021.0294
-ISTNEpoca tau0 della discontinuit�   =  2020.7337
-IZMIEpoca tau0 della discontinuit�   =  2019.8576
-KALYEpoca tau0 della discontinuit�   =  2020.0192
-KARBEpoca tau0 della discontinuit�   =  2020.7337
-KATCEpoca tau0 della discontinuit�   =  2019.8604
-KAV1Epoca tau0 della discontinuit�   =  2020.0192
-KIKAEpoca tau0 della discontinuit�   =  2020.7337
-KIRLEpoca tau0 della discontinuit�   =  2020.7337
-KISMEpoca tau0 della discontinuit�   =  2021.0294
-KOM1Epoca tau0 della discontinuit�   =  2021.0294
-KRP1Epoca tau0 della discontinuit�   =  2021.5222
-KRU1Epoca tau0 della discontinuit�   =  2020.0192
-LEMNEpoca tau0 della discontinuit�   =  2020.1314
-LES4Epoca tau0 della discontinuit�   =  2020.0329
-MIL7Epoca tau0 della discontinuit�   =  2019.8576
-MOI2Epoca tau0 della discontinuit�   =  2021.5222
-MUG1Epoca tau0 della discontinuit�   =  2020.7447
-MYKNEpoca tau0 della discontinuit�   =  2021.5222
-NAXOEpoca tau0 della discontinuit�   =  2020.0192
-NISYEpoca tau0 della discontinuit�   =  2021.6838
-ORE1Epoca tau0 della discontinuit�   =  2020.0192
-PRKVEpoca tau0 della discontinuit�   =  2019.8576
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-RODOEpoca tau0 della discontinuit�   =  2020.0192
-SALHEpoca tau0 della discontinuit�   =  2020.7337
-SAM3Epoca tau0 della discontinuit�   =  2020.0192
-SAN6Epoca tau0 della discontinuit�   =  2019.8631
-SARYEpoca tau0 della discontinuit�   =  2020.7337
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-SKYREpoca tau0 della discontinuit�   =  2019.8576
-SLVREpoca tau0 della discontinuit�   =  2020.7337
-TEKREpoca tau0 della discontinuit�   =  2020.7337
-TUC2Epoca tau0 della discontinuit�   =  2019.8576
-VAM0Epoca tau0 della discontinuit�   =  2020.8542
-XIOSEpoca tau0 della discontinuit�   =  2020.0192
-YEN1Epoca tau0 della discontinuit�   =  2020.7337
-YLDZEpoca tau0 della discontinuit�   =  2019.9945
-ZKROEpoca tau0 della discontinuit�   =  2019.9398
 U
-ALE3Epoca tau0 della discontinuit�   =  2021.0021
-ANDREpoca tau0 della discontinuit�   =  2021.0021
-ARK1Epoca tau0 della discontinuit�   =  2021.0021
-AST5Epoca tau0 della discontinuit�   =  2021.0294
-ASTYEpoca tau0 della discontinuit�   =  2020.0192
-AYVLEpoca tau0 della discontinuit�   =  2020.6954
-BAL1Epoca tau0 della discontinuit�   =  2020.7502
-BNDREpoca tau0 della discontinuit�   =  2020.6954
-DATCEpoca tau0 della discontinuit�   =  2020.6954
-DEI1Epoca tau0 della discontinuit�   =  2020.6954
-DIDIEpoca tau0 della discontinuit�   =  2020.6954
-DUTHEpoca tau0 della discontinuit�   =  2021.0021
-EDIREpoca tau0 della discontinuit�   =  2020.7775
-GODAEpoca tau0 della discontinuit�   =  2020.7775
-HAR3Epoca tau0 della discontinuit�   =  2021.0267
-HERAEpoca tau0 della discontinuit�   =  2021.0021
-IDI0Epoca tau0 della discontinuit�   =  2021.0021
-IERAEpoca tau0 della discontinuit�   =  2021.0021
-IKAREpoca tau0 della discontinuit�   =  2021.0294
-ISTNEpoca tau0 della discontinuit�   =  2020.7337
-IZMIEpoca tau0 della discontinuit�   =  2020.0000
-KALYEpoca tau0 della discontinuit�   =  2021.0021
-KARBEpoca tau0 della discontinuit�   =  2020.7337
-KATCEpoca tau0 della discontinuit�   =  2019.8604
-KAV1Epoca tau0 della discontinuit�   =  2021.0021
-KIKAEpoca tau0 della discontinuit�   =  2020.7337
-KIRLEpoca tau0 della discontinuit�   =  2020.7337
-KISMEpoca tau0 della discontinuit�   =  2021.0294
-KOM1Epoca tau0 della discontinuit�   =  2021.0294
-KRP1Epoca tau0 della discontinuit�   =  2021.5222
-KRU1Epoca tau0 della discontinuit�   =  2021.0021
-LEMNEpoca tau0 della discontinuit�   =  2020.1314
-LES4Epoca tau0 della discontinuit�   =  2021.0021
-MIL7Epoca tau0 della discontinuit�   =  2020.0000
-MOI2Epoca tau0 della discontinuit�   =  2021.5222
-MUG1Epoca tau0 della discontinuit�   =  2020.7447
-MYKNEpoca tau0 della discontinuit�   =  2021.5222
-NAXOEpoca tau0 della discontinuit�   =  2021.0021
-NISYEpoca tau0 della discontinuit�   =  2021.6838
-ORE1Epoca tau0 della discontinuit�   =  2021.0021
-PRKVEpoca tau0 della discontinuit�   =  2021.0021
-RETHEpoca tau0 della discontinuit�   =  2021.0021
-RODOEpoca tau0 della discontinuit�   =  2021.0021
-SALHEpoca tau0 della discontinuit�   =  2020.7337
-SAM3Epoca tau0 della discontinuit�   =  2021.0021
-SAN6Epoca tau0 della discontinuit�   =  2020.0000
-SARYEpoca tau0 della discontinuit�   =  2020.7337
-SIT1Epoca tau0 della discontinuit�   =  2021.0021
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-SKYREpoca tau0 della discontinuit�   =  2021.0021
-SLVREpoca tau0 della discontinuit�   =  2020.7337
-TEKREpoca tau0 della discontinuit�   =  2020.7337
-TUC2Epoca tau0 della discontinuit�   =  2021.0021
-VAM0Epoca tau0 della discontinuit�   =  2021.0021
-XIOSEpoca tau0 della discontinuit�   =  2021.0021
-YEN1Epoca tau0 della discontinuit�   =  2020.7337
-YLDZEpoca tau0 della discontinuit�   =  2019.9480
-ZKROEpoca tau0 della discontinuit�   =  2019.8357
 EQ10.2
 E
-ALE3Epoca tau0 della discontinuit�   =  2020.0192
-ANDREpoca tau0 della discontinuit�   =  2020.0192
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-AST5Epoca tau0 della discontinuit�   =  2021.0294
-ASTYEpoca tau0 della discontinuit�   =  2020.0192
-AYVLEpoca tau0 della discontinuit�   =  2020.6954
-BAL1Epoca tau0 della discontinuit�   =  2020.7502
-BNDREpoca tau0 della discontinuit�   =  2020.6954
-DATCEpoca tau0 della discontinuit�   =  2020.6954
-DEI1Epoca tau0 della discontinuit�   =  2020.6954
-DIDIEpoca tau0 della discontinuit�   =  2020.6954
-DUTHEpoca tau0 della discontinuit�   =  2019.8576
-EDIREpoca tau0 della discontinuit�   =  2020.7775
-GODAEpoca tau0 della discontinuit�   =  2020.7775
-HAR3Epoca tau0 della discontinuit�   =  2021.0267
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.8604
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-IKAREpoca tau0 della discontinuit�   =  2021.0294
-ISTNEpoca tau0 della discontinuit�   =  2020.7337
-IZMIEpoca tau0 della discontinuit�   =  2019.8576
-KALYEpoca tau0 della discontinuit�   =  2020.0192
-KARBEpoca tau0 della discontinuit�   =  2020.7337
-KATCEpoca tau0 della discontinuit�   =  2019.8604
-KAV1Epoca tau0 della discontinuit�   =  2020.0192
-KIKAEpoca tau0 della discontinuit�   =  2020.7337
-KIRLEpoca tau0 della discontinuit�   =  2020.7337
-KISMEpoca tau0 della discontinuit�   =  2021.0294
-KOM1Epoca tau0 della discontinuit�   =  2021.0294
-KRP1Epoca tau0 della discontinuit�   =  2021.5222
-KRU1Epoca tau0 della discontinuit�   =  2020.0192
-LEMNEpoca tau0 della discontinuit�   =  2020.1314
-LES4Epoca tau0 della discontinuit�   =  2020.0329
-MIL7Epoca tau0 della discontinuit�   =  2019.8576
-MOI2Epoca tau0 della discontinuit�   =  2021.5222
-MUG1Epoca tau0 della discontinuit�   =  2020.7447
-MYKNEpoca tau0 della discontinuit�   =  2021.5222
-NAXOEpoca tau0 della discontinuit�   =  2020.0192
-NISYEpoca tau0 della discontinuit�   =  2021.6838
-ORE1Epoca tau0 della discontinuit�   =  2020.0192
-PRKVEpoca tau0 della discontinuit�   =  2019.8576
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-RODOEpoca tau0 della discontinuit�   =  2020.0192
-SALHEpoca tau0 della discontinuit�   =  2020.7337
-SAM3Epoca tau0 della discontinuit�   =  2020.0192
-SAN6Epoca tau0 della discontinuit�   =  2019.8631
-SARYEpoca tau0 della discontinuit�   =  2020.7337
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-SKYREpoca tau0 della discontinuit�   =  2019.8576
-SLVREpoca tau0 della discontinuit�   =  2020.7337
-TEKREpoca tau0 della discontinuit�   =  2020.7337
-TUC2Epoca tau0 della discontinuit�   =  2019.8576
-VAM0Epoca tau0 della discontinuit�   =  2020.8542
-XIOSEpoca tau0 della discontinuit�   =  2020.0192
-YEN1Epoca tau0 della discontinuit�   =  2020.7337
-YLDZEpoca tau0 della discontinuit�   =  2019.9945
-ZKROEpoca tau0 della discontinuit�   =  2019.9398
 N
-ALE3Epoca tau0 della discontinuit�   =  2020.0192
-ANDREpoca tau0 della discontinuit�   =  2020.0192
-ARK1Epoca tau0 della discontinuit�   =  2020.0192
-AST5Epoca tau0 della discontinuit�   =  2021.0294
-ASTYEpoca tau0 della discontinuit�   =  2020.0192
-AYVLEpoca tau0 della discontinuit�   =  2020.6954
-BAL1Epoca tau0 della discontinuit�   =  2020.7502
-BNDREpoca tau0 della discontinuit�   =  2020.6954
-DATCEpoca tau0 della discontinuit�   =  2020.6954
-DEI1Epoca tau0 della discontinuit�   =  2020.6954
-DIDIEpoca tau0 della discontinuit�   =  2020.6954
-DUTHEpoca tau0 della discontinuit�   =  2019.8576
-EDIREpoca tau0 della discontinuit�   =  2020.7775
-GODAEpoca tau0 della discontinuit�   =  2020.7775
-HAR3Epoca tau0 della discontinuit�   =  2021.0267
-HERAEpoca tau0 della discontinuit�   =  2020.0246
-IDI0Epoca tau0 della discontinuit�   =  2019.8604
-IERAEpoca tau0 della discontinuit�   =  2020.0192
-IKAREpoca tau0 della discontinuit�   =  2021.0294
-ISTNEpoca tau0 della discontinuit�   =  2020.7337
-IZMIEpoca tau0 della discontinuit�   =  2019.8576
-KALYEpoca tau0 della discontinuit�   =  2020.0192
-KARBEpoca tau0 della discontinuit�   =  2020.7337
-KATCEpoca tau0 della discontinuit�   =  2019.8604
-KAV1Epoca tau0 della discontinuit�   =  2020.0192
-KIKAEpoca tau0 della discontinuit�   =  2020.7337
-KIRLEpoca tau0 della discontinuit�   =  2020.7337
-KISMEpoca tau0 della discontinuit�   =  2021.0294
-KOM1Epoca tau0 della discontinuit�   =  2021.0294
-KRP1Epoca tau0 della discontinuit�   =  2021.5222
-KRU1Epoca tau0 della discontinuit�   =  2020.0192
-LEMNEpoca tau0 della discontinuit�   =  2020.1314
-LES4Epoca tau0 della discontinuit�   =  2020.0329
-MIL7Epoca tau0 della discontinuit�   =  2019.8576
-MOI2Epoca tau0 della discontinuit�   =  2021.5222
-MUG1Epoca tau0 della discontinuit�   =  2020.7447
-MYKNEpoca tau0 della discontinuit�   =  2021.5222
-NAXOEpoca tau0 della discontinuit�   =  2020.0192
-NISYEpoca tau0 della discontinuit�   =  2021.6838
-ORE1Epoca tau0 della discontinuit�   =  2020.0192
-PRKVEpoca tau0 della discontinuit�   =  2019.8576
-RETHEpoca tau0 della discontinuit�   =  2020.0192
-RODOEpoca tau0 della discontinuit�   =  2020.0192
-SALHEpoca tau0 della discontinuit�   =  2020.7337
-SAM3Epoca tau0 della discontinuit�   =  2020.0192
-SAN6Epoca tau0 della discontinuit�   =  2019.8631
-SARYEpoca tau0 della discontinuit�   =  2020.7337
-SIT1Epoca tau0 della discontinuit�   =  2020.0192
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-SKYREpoca tau0 della discontinuit�   =  2019.8576
-SLVREpoca tau0 della discontinuit�   =  2020.7337
-TEKREpoca tau0 della discontinuit�   =  2020.7337
-TUC2Epoca tau0 della discontinuit�   =  2019.8576
-VAM0Epoca tau0 della discontinuit�   =  2020.8542
-XIOSEpoca tau0 della discontinuit�   =  2020.0192
-YEN1Epoca tau0 della discontinuit�   =  2020.7337
-YLDZEpoca tau0 della discontinuit�   =  2019.9945
-ZKROEpoca tau0 della discontinuit�   =  2019.9398
 U
-ALE3Epoca tau0 della discontinuit�   =  2021.0021
-ANDREpoca tau0 della discontinuit�   =  2021.0021
-ARK1Epoca tau0 della discontinuit�   =  2021.0021
-AST5Epoca tau0 della discontinuit�   =  2021.0294
-ASTYEpoca tau0 della discontinuit�   =  2020.0192
-AYVLEpoca tau0 della discontinuit�   =  2020.6954
-BAL1Epoca tau0 della discontinuit�   =  2020.7502
-BNDREpoca tau0 della discontinuit�   =  2020.6954
-DATCEpoca tau0 della discontinuit�   =  2020.6954
-DEI1Epoca tau0 della discontinuit�   =  2020.6954
-DIDIEpoca tau0 della discontinuit�   =  2020.6954
-DUTHEpoca tau0 della discontinuit�   =  2021.0021
-EDIREpoca tau0 della discontinuit�   =  2020.7775
-GODAEpoca tau0 della discontinuit�   =  2020.7775
-HAR3Epoca tau0 della discontinuit�   =  2021.0267
-HERAEpoca tau0 della discontinuit�   =  2021.0021
-IDI0Epoca tau0 della discontinuit�   =  2021.0021
-IERAEpoca tau0 della discontinuit�   =  2021.0021
-IKAREpoca tau0 della discontinuit�   =  2021.0294
-ISTNEpoca tau0 della discontinuit�   =  2020.7337
-IZMIEpoca tau0 della discontinuit�   =  2020.0000
-KALYEpoca tau0 della discontinuit�   =  2021.0021
-KARBEpoca tau0 della discontinuit�   =  2020.7337
-KATCEpoca tau0 della discontinuit�   =  2019.8604
-KAV1Epoca tau0 della discontinuit�   =  2021.0021
-KIKAEpoca tau0 della discontinuit�   =  2020.7337
-KIRLEpoca tau0 della discontinuit�   =  2020.7337
-KISMEpoca tau0 della discontinuit�   =  2021.0294
-KOM1Epoca tau0 della discontinuit�   =  2021.0294
-KRP1Epoca tau0 della discontinuit�   =  2021.5222
-KRU1Epoca tau0 della discontinuit�   =  2021.0021
-LEMNEpoca tau0 della discontinuit�   =  2020.1314
-LES4Epoca tau0 della discontinuit�   =  2021.0021
-MIL7Epoca tau0 della discontinuit�   =  2020.0000
-MOI2Epoca tau0 della discontinuit�   =  2021.5222
-MUG1Epoca tau0 della discontinuit�   =  2020.7447
-MYKNEpoca tau0 della discontinuit�   =  2021.5222
-NAXOEpoca tau0 della discontinuit�   =  2021.0021
-NISYEpoca tau0 della discontinuit�   =  2021.6838
-ORE1Epoca tau0 della discontinuit�   =  2021.0021
-PRKVEpoca tau0 della discontinuit�   =  2021.0021
-RETHEpoca tau0 della discontinuit�   =  2021.0021
-RODOEpoca tau0 della discontinuit�   =  2021.0021
-SALHEpoca tau0 della discontinuit�   =  2020.7337
-SAM3Epoca tau0 della discontinuit�   =  2021.0021
-SAN6Epoca tau0 della discontinuit�   =  2020.0000
-SARYEpoca tau0 della discontinuit�   =  2020.7337
-SIT1Epoca tau0 della discontinuit�   =  2021.0021
-SIVAEpoca tau0 della discontinuit�   =  2020.5092
-SKYREpoca tau0 della discontinuit�   =  2021.0021
-SLVREpoca tau0 della discontinuit�   =  2020.7337
-TEKREpoca tau0 della discontinuit�   =  2020.7337
-TUC2Epoca tau0 della discontinuit�   =  2021.0021
-VAM0Epoca tau0 della discontinuit�   =  2021.0021
-XIOSEpoca tau0 della discontinuit�   =  2021.0021
-YEN1Epoca tau0 della discontinuit�   =  2020.7337
-YLDZEpoca tau0 della discontinuit�   =  2019.9480
-ZKROEpoca tau0 della discontinuit�   =  2019.8357
+EQ1.1
+E
+AKYR	2005.1691
+ANOP	2005.1663
+ATRS	2005.4018
+GVDS	2006.5188
+KERY	2005.0486
+KITH	2005.0486
+KOUN	2005.0486
+KRYO	2005.3881
+MEN1	2005.0486
+MET4	2005.0486
+NEA1	2005.0486
+PSAR	2005.0486
+RLSO	2006.6037
+SPR2	2006.5791
+TUC2	2005.0486
+VASS	2005.0486
+XRSO	2005.0486
+N
+AKYR	2006.2259
+ANOP	2005.8508
+ATRS	2006.0643
+GVDS	2006.7598
+KERY	2006.1054
+KITH	2005.1581
+KOUN	2006.4586
+KRYO	2005.8453
+MEN1	2005.1225
+MET4	2006.0999
+NEA1	2005.2320
+PSAR	2006.4422
+RLSO	2006.8337
+SPR2	2006.7515
+TUC2	2006.0096
+VASS	2006.1027
+XRSO	2006.1629
+U
+AKYR	2005.1691
+ANOP	2005.1663
+ATRS	2005.4018
+GVDS	2006.5188
+KERY	2005.0486
+KITH	2005.0486
+KOUN	2005.0486
+KRYO	2005.3881
+MEN1	2005.0486
+MET4	2005.0486
+NEA1	2005.0486
+PSAR	2005.0486
+RLSO	2006.6037
+SPR2	2006.5791
+TUC2	2005.0486
+VASS	2005.0486
+XRSO	2005.0486
+EQ1.2
+E
+AKYR	2005.1691
+ANOP	2005.1663
+ATRS	2005.4018
+GVDS	2006.5188
+KERY	2005.0486
+KITH	2005.0486
+KOUN	2005.0486
+KRYO	2005.3881
+MEN1	2005.0486
+MET4	2005.0486
+NEA1	2005.0486
+PSAR	2005.0486
+RLSO	2006.6037
+SPR2	2006.5791
+TRIZ	2005.0486
+TUC2	2005.0486
+VASS	2005.0486
+XRSO	2005.0486
+N
+AKYR	2006.2259
+ANOP	2005.8508
+ATRS	2006.0643
+GVDS	2006.7598
+KERY	2006.1054
+KITH	2005.1581
+KOUN	2006.4586
+KRYO	2005.8453
+MEN1	2005.1225
+MET4	2006.0999
+NEA1	2005.2320
+PSAR	2006.4422
+RLSO	2006.8337
+SPR2	2006.7515
+TRIZ	2005.9247
+TUC2	2006.0096
+VASS	2006.1027
+XRSO	2006.1629
+U
+AKYR	2005.1691
+ANOP	2005.1663
+ATRS	2005.4018
+GVDS	2006.5188
+KERY	2005.0486
+KITH	2005.0486
+KOUN	2005.0486
+KRYO	2005.3881
+MEN1	2005.0486
+MET4	2005.0486
+NEA1	2005.0486
+PSAR	2005.0486
+RLSO	2006.6037
+SPR2	2006.5791
+TRIZ	2005.0486
+TUC2	2005.0486
+VASS	2005.0486
+XRSO	2005.0486
+EQ2.1
+E
+ATRS	2007.1485
+JPA1	2008.6023
+KERY	2007.1485
+KITH	2007.1485
+KORI	2008.6051
+KRYO	2007.1513
+MEN1	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPET	2008.9719
+SPR2	2007.1485
+VASS	2007.1485
+N
+ATRS	2007.8494
+JPA1	2008.9309
+KERY	2007.9480
+KITH	2007.9617
+KORI	2008.9637
+KRYO	2007.9069
+MEN1	2007.9398
+MET4	2007.8604
+PYLO	2008.1342
+SPET	2008.9829
+SPR2	2007.8001
+VASS	2007.8850
+U
+ATRS	2007.1485
+JPA1	2008.6023
+KERY	2007.1485
+KITH	2007.1485
+KORI	2008.6051
+KRYO	2007.1513
+MEN1	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPET	2008.9719
+SPR2	2007.1485
+VASS	2007.1485
+EQ2.2
+E
+ATRS	2007.1485
+JPA1	2008.6023
+KERY	2007.1485
+KITH	2007.1485
+KORI	2008.6051
+KRYO	2007.1513
+MEN1	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPET	2008.9719
+SPR2	2007.1485
+VASS	2007.1485
+N
+ATRS	2007.8494
+JPA1	2008.9309
+KERY	2007.9480
+KITH	2007.9617
+KORI	2008.9637
+KRYO	2007.9069
+MEN1	2007.9398
+MET4	2007.8604
+PYLO	2008.1342
+SPET	2008.9829
+SPR2	2007.8001
+VASS	2007.8850
+U
+ATRS	2007.1485
+JPA1	2008.6023
+KERY	2007.1485
+KITH	2007.1485
+KORI	2008.6051
+KRYO	2007.1513
+MEN1	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPET	2008.9719
+SPR2	2007.1485
+VASS	2007.1485
+EQ3.1
+E
+JPA1	2008.6023
+KERY	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPR2	2007.1485
+VASS	2007.1485
+N
+JPA1	2008.9309
+KERY	2007.9480
+MET4	2007.8604
+PYLO	2008.1342
+SPR2	2007.8001
+VASS	2007.8850
+U
+JPA1	2008.6023
+KERY	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPR2	2007.1485
+VASS	2007.1485
+EQ3.2
+E
+JPA1	2008.6023
+KERY	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPR2	2007.1485
+VASS	2007.1485
+N
+JPA1	2008.9309
+KERY	2007.9480
+MET4	2007.8604
+PYLO	2008.1342
+SPR2	2007.8001
+VASS	2007.8850
+U
+JPA1	2008.6023
+KERY	2007.1485
+MET4	2007.1485
+PYLO	2007.7344
+SPR2	2007.1485
+VASS	2007.1485
+EQ4.1
+E
+MIL7	2012.8077
+NEAB	2012.8077
+RETH	2012.8077
+TUC2	2012.8077
+N
+MIL7	2014.3847
+NEAB	2013.6427
+RETH	2014.4148
+TUC2	2013.6016
+U
+MIL7	2012.8077
+NEAB	2012.8077
+RETH	2012.8077
+TUC2	2012.8077
+EQ4.2
+E
+NEAB	2012.8077
+RETH	2012.8077
+TUC2	2012.8077
+N
+NEAB	2013.6427
+RETH	2014.4148
+TUC2	2013.6016
+U
+NEAB	2012.8077
+RETH	2012.8077
+TUC2	2012.8077
+EQ5.1
+E
+AFYT	2013.9493
+ALE3	2015.0418
+ANAV	2013.4209
+ANDR	2013.4209
+ATAL	2013.4374
+AUT1	2013.4209
+AYD1	2013.4209
+AYVL	2013.4237
+BALK	2013.4237
+BAND	2013.4237
+BNDR	2014.1465
+CANA	2013.4237
+CESM	2013.4209
+DEIR	2013.4237
+DUTH	2013.4209
+DYNG	2013.4401
+EDES	2013.4209
+EDIR	2013.4237
+FLO2	2014.3792
+GOD1	2015.0445
+HALK	2013.4209
+HAR3	2014.4422
+IPS1	2014.4613
+IPSA	2013.4237
+ISTI	2013.9877
+IZMI	2013.4209
+KAL1	2015.0281
+KAL2	2013.9877
+KATE	2013.4209
+KAV1	2013.4209
+KIKA	2013.4237
+KIRL	2013.4237
+KOMO	2013.9849
+KORI	2013.4209
+KRU1	2013.4209
+KRYO	2014.2615
+KYMI	2015.0418
+LEMN	2013.4209
+LES4	2015.0418
+LYGO	2015.0691
+MET0	2013.4209
+NOA1	2013.4209
+NVRK	2013.4209
+ORE1	2013.4209
+PRKV	2013.4209
+PRO2	2013.9849
+PTOL	2013.4209
+ROZH	2013.4209
+SALH	2013.4237
+SAM3	2013.4730
+SAN9	2013.4209
+SARY	2013.4237
+SERR	2013.9466
+SKOP	2013.4209
+SKYR	2013.4209
+SMOL	2013.9877
+SPET	2013.4209
+STRA	2013.4209
+SVIL	2013.4346
+SYRO	2013.9685
+TEKR	2013.4237
+THI1	2013.4209
+THS1	2013.9466
+VDVA	2013.4812
+VERI	2015.2060
+VOLO	2013.4209
+XIOS	2013.9466
+YENC	2013.4237
+N
+AFYT	2014.6940
+ALE3	2015.0719
+ANAV	2015.0144
+ANDR	2013.6454
+ATAL	2015.2033
+AUT1	2014.3135
+AYD1	2013.7495
+AYVL	2013.7522
+BALK	2013.7495
+BAND	2013.5743
+BNDR	2014.8337
+CANA	2014.3956
+CESM	2013.5743
+DEIR	2014.4339
+DUTH	2013.5086
+DYNG	2013.5359
+EDES	2013.7495
+EDIR	2015.1869
+FLO2	2014.7899
+GOD1	2015.1129
+HALK	2013.7769
+HAR3	2015.2307
+IPS1	2014.6940
+IPSA	2014.3956
+ISTI	2014.8255
+IZMI	2014.4120
+KAL1	2015.0281
+KAL2	2014.8255
+KATE	2014.3326
+KAV1	2013.7495
+KIKA	2013.6290
+KIRL	2014.3984
+KOMO	2014.3655
+KORI	2014.3984
+KRU1	2014.3984
+KRYO	2014.2752
+KYMI	2015.0719
+LEMN	2014.3956
+LES4	2015.1075
+LYGO	2015.1951
+MET0	2013.7495
+NOA1	2014.7762
+NVRK	2013.4867
+ORE1	2014.3984
+PRKV	2014.0698
+PRO2	2014.2779
+PTOL	2013.5962
+ROZH	2013.6235
+SALH	2014.4832
+SAM3	2014.9213
+SAN9	2015.0637
+SARY	2014.3929
+SERR	2013.9521
+SKOP	2014.5407
+SKYR	2015.0253
+SMOL	2015.1211
+SPET	2013.7796
+STRA	2013.8289
+SVIL	2014.4832
+SYRO	2014.4011
+TEKR	2014.3956
+THI1	2013.7550
+THS1	2014.7379
+VDVA	2013.7878
+VERI	2015.2799
+VOLO	2015.0801
+XIOS	2014.7351
+YENC	2014.3929
+U
+AFYT	2013.9493
+ALE3	2015.0418
+ANAV	2013.4209
+ANDR	2013.4209
+ATAL	2013.4374
+AUT1	2013.4209
+AYD1	2013.4209
+AYVL	2013.4237
+BALK	2013.4237
+BAND	2013.4237
+BNDR	2014.1465
+CANA	2013.4237
+CESM	2013.4209
+DEIR	2013.4237
+DUTH	2013.4209
+DYNG	2013.4401
+EDES	2013.4209
+EDIR	2013.4237
+FLO2	2014.3792
+GOD1	2015.0445
+HALK	2013.4209
+HAR3	2014.4422
+IPS1	2014.4613
+IPSA	2013.4237
+ISTI	2013.9877
+IZMI	2013.4209
+KAL1	2015.0281
+KAL2	2013.9877
+KATE	2013.4209
+KAV1	2013.4209
+KIKA	2013.4237
+KIRL	2013.4237
+KOMO	2013.9849
+KORI	2013.4209
+KRU1	2013.4209
+KRYO	2014.2615
+KYMI	2015.0418
+LEMN	2013.4209
+LES4	2015.0418
+LYGO	2015.0691
+MET0	2013.4209
+NOA1	2013.4209
+NVRK	2013.4209
+ORE1	2013.4209
+PRKV	2013.4209
+PRO2	2013.9849
+PTOL	2013.4209
+ROZH	2013.4209
+SALH	2013.4237
+SAM3	2013.4730
+SAN9	2013.4209
+SARY	2013.4237
+SERR	2013.9466
+SKOP	2013.4209
+SKYR	2013.4209
+SMOL	2013.9877
+SPET	2013.4209
+STRA	2013.4209
+SVIL	2013.4346
+SYRO	2013.9685
+TEKR	2013.4237
+THI1	2013.4209
+THS1	2013.9466
+VDVA	2013.4812
+VERI	2015.2060
+VOLO	2013.4209
+XIOS	2013.9466
+YENC	2013.4237
+EQ5.2
+E
+AFYT	2013.9493
+ALE3	2015.0418
+ANAV	2013.4209
+ANDR	2013.4209
+ATAL	2013.4374
+AUT1	2013.4209
+AYD1	2013.4209
+AYVL	2013.4237
+BALK	2013.4237
+BAND	2013.4237
+BNDR	2014.1465
+CANA	2013.4237
+CESM	2013.4209
+DEIR	2013.4237
+DUTH	2013.4209
+DYNG	2013.4401
+EDES	2013.4209
+EDIR	2013.4237
+FLO2	2014.3792
+GOD1	2015.0445
+HALK	2013.4209
+HAR3	2014.4422
+IPS1	2014.4613
+IPSA	2013.4237
+ISTI	2013.9877
+ISTN	2013.4237
+IZMI	2013.4209
+KAL1	2015.0281
+KAL2	2013.9877
+KATE	2013.4209
+KAV1	2013.4209
+KIKA	2013.4237
+KIRL	2013.4237
+KOMO	2013.9849
+KORI	2013.4209
+KRU1	2013.4209
+KRYO	2014.2615
+KYMI	2015.0418
+LEMN	2013.4209
+LES4	2015.0418
+LYGO	2015.0691
+MET0	2013.4209
+NOA1	2013.4209
+NVRK	2013.4209
+ORE1	2013.4209
+PRKV	2013.4209
+PRO2	2013.9849
+PTOL	2013.4209
+ROZH	2013.4209
+SALH	2013.4237
+SAN9	2013.4209
+SARY	2013.4237
+SERR	2013.9466
+SKOP	2013.4209
+SKYR	2013.4209
+SMOL	2013.9877
+SPET	2013.4209
+STRA	2013.4209
+SVIL	2013.4346
+SVRT	2013.4209
+SYRO	2013.9685
+TEKR	2013.4237
+THI1	2013.4209
+THS1	2013.9466
+VDVA	2013.4812
+VERI	2015.2060
+VOLO	2013.4209
+XIOS	2013.9466
+YENC	2013.4237
+YLDZ	2014.6229
+YSST	2013.4209
+N
+AFYT	2014.6940
+ALE3	2015.0719
+ANAV	2015.0144
+ANDR	2013.6454
+ATAL	2015.2033
+AUT1	2014.3135
+AYD1	2013.7495
+AYVL	2013.7522
+BALK	2013.7495
+BAND	2013.5743
+BNDR	2014.8337
+CANA	2014.3956
+CESM	2013.5743
+DEIR	2014.4339
+DUTH	2013.5086
+DYNG	2013.5359
+EDES	2013.7495
+EDIR	2015.1869
+FLO2	2014.7899
+GOD1	2015.1129
+HALK	2013.7769
+HAR3	2015.2307
+IPS1	2014.6940
+IPSA	2014.3956
+ISTI	2014.8255
+ISTN	2015.3073
+IZMI	2014.4120
+KAL1	2015.0281
+KAL2	2014.8255
+KATE	2014.3326
+KAV1	2013.7495
+KIKA	2013.6290
+KIRL	2014.3984
+KOMO	2014.3655
+KORI	2014.3984
+KRU1	2014.3984
+KRYO	2014.2752
+KYMI	2015.0719
+LEMN	2014.3956
+LES4	2015.1075
+LYGO	2015.1951
+MET0	2013.7495
+NOA1	2014.7762
+NVRK	2013.4867
+ORE1	2014.3984
+PRKV	2014.0698
+PRO2	2014.2779
+PTOL	2013.5962
+ROZH	2013.6235
+SALH	2014.4832
+SAN9	2015.0637
+SARY	2014.3929
+SERR	2013.9521
+SKOP	2014.5407
+SKYR	2015.0253
+SMOL	2015.1211
+SPET	2013.7796
+STRA	2013.8289
+SVIL	2014.4832
+SVRT	2014.4832
+SYRO	2014.4011
+TEKR	2014.3956
+THI1	2013.7550
+THS1	2014.7379
+VDVA	2013.7878
+VERI	2015.2799
+VOLO	2015.0801
+XIOS	2014.7351
+YENC	2014.3929
+YLDZ	2014.6639
+YSST	2015.1431
+U
+AFYT	2013.9493
+ALE3	2015.0418
+ANAV	2013.4209
+ANDR	2013.4209
+ATAL	2013.4374
+AUT1	2013.4209
+AYD1	2013.4209
+AYVL	2013.4237
+BALK	2013.4237
+BAND	2013.4237
+BNDR	2014.1465
+CANA	2013.4237
+CESM	2013.4209
+DEIR	2013.4237
+DUTH	2013.4209
+DYNG	2013.4401
+EDES	2013.4209
+EDIR	2013.4237
+FLO2	2014.3792
+GOD1	2015.0445
+HALK	2013.4209
+HAR3	2014.4422
+IPS1	2014.4613
+IPSA	2013.4237
+ISTI	2013.9877
+ISTN	2013.4237
+IZMI	2013.4209
+KAL1	2015.0281
+KAL2	2013.9877
+KATE	2013.4209
+KAV1	2013.4209
+KIKA	2013.4237
+KIRL	2013.4237
+KOMO	2013.9849
+KORI	2013.4209
+KRU1	2013.4209
+KRYO	2014.2615
+KYMI	2015.0418
+LEMN	2013.4209
+LES4	2015.0418
+LYGO	2015.0691
+MET0	2013.4209
+NOA1	2013.4209
+NVRK	2013.4209
+ORE1	2013.4209
+PRKV	2013.4209
+PRO2	2013.9849
+PTOL	2013.4209
+ROZH	2013.4209
+SALH	2013.4237
+SAN9	2013.4209
+SARY	2013.4237
+SERR	2013.9466
+SKOP	2013.4209
+SKYR	2013.4209
+SMOL	2013.9877
+SPET	2013.4209
+STRA	2013.4209
+SVIL	2013.4346
+SVRT	2013.4209
+SYRO	2013.9685
+TEKR	2013.4237
+THI1	2013.4209
+THS1	2013.9466
+VDVA	2013.4812
+VERI	2015.2060
+VOLO	2013.4209
+XIOS	2013.9466
+YENC	2013.4237
+YLDZ	2014.6229
+YSST	2013.4209
+EQ6.1
+E
+ABEL	2015.8631
+AGRI	2014.9268
+AIGI	2015.9726
+AMFI	2015.7700
+ANOC	2014.9049
+ARSA	2014.9049
+ART1	2014.9076
+ASSO	2015.9726
+DRA1	2015.9671
+EGIO	2016.5394
+EXAN	2015.9288
+EYPA	2014.9049
+FISK	2015.9452
+GAL3	2014.9049
+GEYB	2014.9103
+HIMA	2014.9925
+IGOU	2014.9076
+ITEA	2014.9049
+KARP	2014.9049
+KASI	2014.9049
+KIPO	2016.2601
+KLOK	2014.9049
+KOPA	2015.0472
+KOUN	2014.9049
+KRDI	2014.9049
+KRIN	2014.9049
+KTCH	2014.9103
+LAM8	2014.9049
+LAMJ	2015.0418
+LARM	2014.9049
+LEPE	2015.0144
+LFKD	2015.0418
+LIDO	2014.9049
+MESA	2014.9049
+MESO	2014.9076
+NAFP	2014.9049
+PAT0	2014.9295
+PATR	2014.9049
+PAXO	2014.9131
+PONT	2014.9459
+PSAR	2014.9049
+PSAT	2014.9049
+PVOG	2014.9049
+PYL1	2014.9076
+PYRG	2014.9049
+RETS	2014.9569
+RGNI	2015.0965
+RLSO	2014.9049
+ROD3	2014.9076
+SISS	2014.9049
+SPAN	2014.9049
+SRND	2016.0931
+STRF	2016.7885
+TRIZ	2014.9049
+VALI	2015.4579
+VLSM	2014.9049
+VLY1	2014.9049
+XILI	2014.9049
+ZAK2	2014.9049
+N
+ABEL	2016.4298
+AGRI	2015.9179
+AIGI	2016.4134
+AMFI	2016.4271
+ANOC	2016.3450
+ARSA	2016.0164
+ART1	2015.4962
+ASSO	2016.3723
+DRA1	2016.4052
+EGIO	2016.8542
+EXAN	2016.3477
+EYPA	2015.0801
+FISK	2016.4025
+GAL3	2015.0910
+GEYB	2015.7810
+HIMA	2015.4771
+IGOU	2015.4689
+ITEA	2015.0746
+KARP	2015.4962
+KASI	2015.8768
+KIPO	2016.2710
+KLOK	2016.3696
+KOPA	2016.1752
+KOUN	2015.7372
+KRDI	2015.4086
+KRIN	2015.2197
+KTCH	2016.3723
+LAM8	2015.4470
+LAMJ	2015.2471
+LARM	2015.8193
+LEPE	2015.8795
+LFKD	2015.8850
+LIDO	2015.8741
+MESA	2015.4223
+MESO	2015.8932
+NAFP	2016.1095
+PAT0	2016.4572
+PATR	2015.6331
+PAXO	2015.8850
+PONT	2015.8768
+PSAR	2015.1732
+PSAT	2015.3812
+PVOG	2016.4271
+PYL1	2015.0253
+PYRG	2015.6441
+RETS	2015.0719
+RGNI	2016.0767
+RLSO	2015.6468
+ROD3	2015.9124
+SISS	2016.1068
+SPAN	2015.8768
+SRND	2016.4381
+STRF	2016.8186
+TRIZ	2015.3320
+VALI	2016.3231
+VLSM	2015.8768
+VLY1	2016.0767
+XILI	2016.7283
+ZAK2	2015.8795
+U
+ABEL	2015.8631
+AGRI	2014.9268
+AIGI	2015.9726
+AMFI	2015.7700
+ANOC	2014.9049
+ARSA	2014.9049
+ART1	2014.9076
+ASSO	2015.9726
+DRA1	2015.9671
+EGIO	2016.5394
+EXAN	2015.9288
+EYPA	2014.9049
+FISK	2015.9452
+GAL3	2014.9049
+GEYB	2014.9103
+HIMA	2014.9925
+IGOU	2014.9076
+ITEA	2014.9049
+KARP	2014.9049
+KASI	2014.9049
+KIPO	2016.2601
+KLOK	2014.9049
+KOPA	2015.0472
+KOUN	2014.9049
+KRDI	2014.9049
+KRIN	2014.9049
+KTCH	2014.9103
+LAM8	2014.9049
+LAMJ	2015.0418
+LARM	2014.9049
+LEPE	2015.0144
+LFKD	2015.0418
+LIDO	2014.9049
+MESA	2014.9049
+MESO	2014.9076
+NAFP	2014.9049
+PAT0	2014.9295
+PATR	2014.9049
+PAXO	2014.9131
+PONT	2014.9459
+PSAR	2014.9049
+PSAT	2014.9049
+PVOG	2014.9049
+PYL1	2014.9076
+PYRG	2014.9049
+RETS	2014.9569
+RGNI	2015.0965
+RLSO	2014.9049
+ROD3	2014.9076
+SISS	2014.9049
+SPAN	2014.9049
+SRND	2016.0931
+STRF	2016.7885
+TRIZ	2014.9049
+VALI	2015.4579
+VLSM	2014.9049
+VLY1	2014.9049
+XILI	2014.9049
+ZAK2	2014.9049
+EQ6.2
+E
+ABEL	2015.8631
+AGRI	2014.9268
+AIGI	2015.9726
+AMFI	2015.7700
+ANOC	2014.9049
+ARSA	2014.9049
+ART1	2014.9076
+ASSO	2015.9726
+DRA1	2015.9671
+EGIO	2016.5394
+EXAN	2015.9288
+EYPA	2014.9049
+FISK	2015.9452
+GAL3	2014.9049
+GEYB	2014.9103
+HIMA	2014.9925
+IGOU	2014.9076
+ITEA	2014.9049
+KARP	2014.9049
+KASI	2014.9049
+KIPO	2016.2601
+KLOK	2014.9049
+KOPA	2015.0472
+KOUN	2014.9049
+KRDI	2014.9049
+KRIN	2014.9049
+KTCH	2014.9103
+LAM8	2014.9049
+LAMJ	2015.0418
+LARM	2014.9049
+LEPE	2015.0144
+LFKD	2015.0418
+LIDO	2014.9049
+MESA	2014.9049
+MESO	2014.9076
+NAFP	2014.9049
+PAT0	2014.9295
+PATR	2014.9049
+PAXO	2014.9131
+PONT	2014.9459
+PSAR	2014.9049
+PSAT	2014.9049
+PVOG	2014.9049
+PYL1	2014.9076
+PYRG	2014.9049
+RETS	2014.9569
+RGNI	2015.0965
+RLSO	2014.9049
+ROD3	2014.9076
+SISS	2014.9049
+SPAN	2014.9049
+SRND	2016.0931
+STRF	2016.7885
+TRIZ	2014.9049
+VALI	2015.4579
+VLSM	2014.9049
+VLY1	2014.9049
+XILI	2014.9049
+ZAK2	2014.9049
+N
+ABEL	2016.4298
+AGRI	2015.9179
+AIGI	2016.4134
+AMFI	2016.4271
+ANOC	2016.3450
+ARSA	2016.0164
+ART1	2015.4962
+ASSO	2016.3723
+DRA1	2016.4052
+EGIO	2016.8542
+EXAN	2016.3477
+EYPA	2015.0801
+FISK	2016.4025
+GAL3	2015.0910
+GEYB	2015.7810
+HIMA	2015.4771
+IGOU	2015.4689
+ITEA	2015.0746
+KARP	2015.4962
+KASI	2015.8768
+KIPO	2016.2710
+KLOK	2016.3696
+KOPA	2016.1752
+KOUN	2015.7372
+KRDI	2015.4086
+KRIN	2015.2197
+KTCH	2016.3723
+LAM8	2015.4470
+LAMJ	2015.2471
+LARM	2015.8193
+LEPE	2015.8795
+LFKD	2015.8850
+LIDO	2015.8741
+MESA	2015.4223
+MESO	2015.8932
+NAFP	2016.1095
+PAT0	2016.4572
+PATR	2015.6331
+PAXO	2015.8850
+PONT	2015.8768
+PSAR	2015.1732
+PSAT	2015.3812
+PVOG	2016.4271
+PYL1	2015.0253
+PYRG	2015.6441
+RETS	2015.0719
+RGNI	2016.0767
+RLSO	2015.6468
+ROD3	2015.9124
+SISS	2016.1068
+SPAN	2015.8768
+SRND	2016.4381
+STRF	2016.8186
+TRIZ	2015.3320
+VALI	2016.3231
+VLSM	2015.8768
+VLY1	2016.0767
+XILI	2016.7283
+ZAK2	2015.8795
+U
+ABEL	2015.8631
+AGRI	2014.9268
+AIGI	2015.9726
+AMFI	2015.7700
+ANOC	2014.9049
+ARSA	2014.9049
+ART1	2014.9076
+ASSO	2015.9726
+DRA1	2015.9671
+EGIO	2016.5394
+EXAN	2015.9288
+EYPA	2014.9049
+FISK	2015.9452
+GAL3	2014.9049
+GEYB	2014.9103
+HIMA	2014.9925
+IGOU	2014.9076
+ITEA	2014.9049
+KARP	2014.9049
+KASI	2014.9049
+KIPO	2016.2601
+KLOK	2014.9049
+KOPA	2015.0472
+KOUN	2014.9049
+KRDI	2014.9049
+KRIN	2014.9049
+KTCH	2014.9103
+LAM8	2014.9049
+LAMJ	2015.0418
+LARM	2014.9049
+LEPE	2015.0144
+LFKD	2015.0418
+LIDO	2014.9049
+MESA	2014.9049
+MESO	2014.9076
+NAFP	2014.9049
+PAT0	2014.9295
+PATR	2014.9049
+PAXO	2014.9131
+PONT	2014.9459
+PSAR	2014.9049
+PSAT	2014.9049
+PVOG	2014.9049
+PYL1	2014.9076
+PYRG	2014.9049
+RETS	2014.9569
+RGNI	2015.0965
+RLSO	2014.9049
+ROD3	2014.9076
+SISS	2014.9049
+SPAN	2014.9049
+SRND	2016.0931
+STRF	2016.7885
+TRIZ	2014.9049
+VALI	2015.4579
+VLSM	2014.9049
+VLY1	2014.9049
+XILI	2014.9049
+ZAK2	2014.9049
+EQ7.1
+E
+IZMI	2016.5777
+KATC	2016.9227
+MNTS	2018.0287
+NISY	2016.9254
+TILO	2016.5777
+ZKRO	2016.6461
+N
+IZMI	2018.1547
+KATC	2017.6810
+MNTS	2018.1629
+NISY	2017.5524
+TILO	2016.6133
+ZKRO	2018.4038
+U
+IZMI	2016.5777
+KATC	2016.9227
+MNTS	2018.0287
+NISY	2016.9254
+TILO	2016.5777
+ZKRO	2016.6461
+EQ7.2
+E
+IZMI	2016.5777
+KATC	2016.9227
+MNTS	2018.0287
+NISY	2016.9254
+TILO	2016.5777
+ZKRO	2016.6461
+N
+IZMI	2018.1547
+KATC	2017.6810
+MNTS	2018.1629
+NISY	2017.5524
+TILO	2016.6133
+ZKRO	2018.4038
+U
+IZMI	2016.5777
+KATC	2016.9227
+MNTS	2018.0287
+NISY	2016.9254
+TILO	2016.5777
+ZKRO	2016.6461
+EQ8.1
+E
+ABEL	2017.8864
+AIGI	2017.8453
+AMFI	2017.8426
+ANIK	2017.9001
+ANOC	2017.8426
+ARSA	2017.8590
+ASSO	2017.8426
+ATAL	2017.8426
+DYNG	2017.8426
+EGIO	2019.4333
+EYPA	2017.8426
+FISK	2017.8426
+GAL3	2017.8426
+GEYB	2017.8426
+KAL3	2017.8426
+KIPO	2017.8426
+KOR1	2018.3272
+KOUN	2017.8426
+KRIN	2017.8426
+KTCH	2017.8426
+LAM8	2017.8426
+LEPE	2017.8426
+LIDO	2017.8426
+MESA	2017.8426
+MESO	2017.8426
+MTNA	2019.6222
+NAFP	2018.4285
+NOA1	2017.8426
+PAT0	2017.8426
+PONT	2017.8426
+PSAR	2017.8426
+PSAT	2017.8426
+PVOG	2017.8426
+PYL1	2017.8535
+RETS	2017.8617
+RGNI	2017.9247
+RLSO	2019.1869
+ROD3	2017.8453
+SISS	2017.8426
+STRF	2017.8426
+TRIZ	2017.8426
+VALI	2017.8426
+VLSM	2017.8426
+VLY1	2019.0363
+XILI	2017.8426
+ZNTE	2018.9213
+N
+ABEL	2018.4641
+AIGI	2018.8172
+AMFI	2018.3792
+ANIK	2018.4203
+ANOC	2018.3929
+ARSA	2018.3737
+ASSO	2018.6721
+ATAL	2019.5893
+DYNG	2019.3402
+EGIO	2019.4771
+EYPA	2018.1629
+FISK	2018.1547
+GAL3	2018.4559
+GEYB	2019.0253
+KAL3	2018.7023
+KIPO	2018.3655
+KOR1	2019.2690
+KOUN	2018.8172
+KRIN	2019.1458
+KTCH	2018.8172
+LAM8	2018.3217
+LEPE	2018.3244
+LIDO	2018.8145
+MESA	2018.7105
+MESO	2018.8172
+MTNA	2019.8056
+NAFP	2018.4750
+NOA1	2018.5243
+PAT0	2018.8172
+PONT	2018.9788
+PSAR	2018.4120
+PSAT	2018.1656
+PVOG	2018.8857
+PYL1	2018.7105
+RETS	2018.8884
+RGNI	2018.7707
+RLSO	2019.5921
+ROD3	2018.0068
+SISS	2019.7070
+STRF	2018.8172
+TRIZ	2017.9904
+VALI	2018.8172
+VLSM	2018.8638
+VLY1	2019.0664
+XILI	2018.0917
+ZNTE	2019.6140
+U
+ABEL	2017.8864
+AIGI	2017.8453
+AMFI	2017.8426
+ANIK	2017.9001
+ANOC	2017.8426
+ARSA	2017.8590
+ASSO	2017.8426
+ATAL	2017.8426
+DYNG	2017.8426
+EGIO	2019.4333
+EYPA	2017.8426
+FISK	2017.8426
+GAL3	2017.8426
+GEYB	2017.8426
+KAL3	2017.8426
+KIPO	2017.8426
+KOR1	2018.3272
+KOUN	2017.8426
+KRIN	2017.8426
+KTCH	2017.8426
+LAM8	2017.8426
+LEPE	2017.8426
+LIDO	2017.8426
+MESA	2017.8426
+MESO	2017.8426
+MTNA	2019.6222
+NAFP	2018.4285
+NOA1	2017.8426
+PAT0	2017.8426
+PONT	2017.8426
+PSAR	2017.8426
+PSAT	2017.8426
+PVOG	2017.8426
+PYL1	2017.8535
+RETS	2017.8617
+RGNI	2017.9247
+RLSO	2019.1869
+ROD3	2017.8453
+SISS	2017.8426
+STRF	2017.8426
+TRIZ	2017.8426
+VALI	2017.8426
+VLSM	2017.8426
+VLY1	2019.0363
+XILI	2017.8426
+ZNTE	2018.9213
+EQ8.2
+E
+ABEL	2017.8864
+AIGI	2017.8453
+AMFI	2017.8426
+ANIK	2017.9001
+ANOC	2017.8426
+ARSA	2017.8590
+ASSO	2017.8426
+ATAL	2017.8426
+DRA1	2017.8426
+DYNG	2017.8426
+EGIO	2019.4333
+EYPA	2017.8426
+FISK	2017.8426
+GAL3	2017.8426
+GEYB	2017.8426
+KAL3	2017.8426
+KIPO	2017.8426
+KOR1	2018.3272
+KOUN	2017.8426
+KRIN	2017.8426
+KTCH	2017.8426
+LAM8	2017.8426
+LEPE	2017.8426
+LIDO	2017.8426
+MESA	2017.8426
+MESO	2017.8426
+MTNA	2019.6222
+NAFP	2018.4285
+NOA1	2017.8426
+PAT0	2017.8426
+PONT	2017.8426
+PSAR	2017.8426
+PSAT	2017.8426
+PVOG	2017.8426
+PYL1	2017.8535
+RETS	2017.8617
+RGNI	2017.9247
+RLSO	2019.1869
+ROD3	2017.8453
+SISS	2017.8426
+STRF	2017.8426
+TRIZ	2017.8426
+VALI	2017.8426
+VLSM	2017.8426
+VLY1	2019.0363
+XILI	2017.8426
+ZNTE	2018.9213
+N
+ABEL	2018.4641
+AIGI	2018.8172
+AMFI	2018.3792
+ANIK	2018.4203
+ANOC	2018.3929
+ARSA	2018.3737
+ASSO	2018.6721
+ATAL	2019.5893
+DRA1	2018.1136
+DYNG	2019.3402
+EGIO	2019.4771
+EYPA	2018.1629
+FISK	2018.1547
+GAL3	2018.4559
+GEYB	2019.0253
+KAL3	2018.7023
+KIPO	2018.3655
+KOR1	2019.2690
+KOUN	2018.8172
+KRIN	2019.1458
+KTCH	2018.8172
+LAM8	2018.3217
+LEPE	2018.3244
+LIDO	2018.8145
+MESA	2018.7105
+MESO	2018.8172
+MTNA	2019.8056
+NAFP	2018.4750
+NOA1	2018.5243
+PAT0	2018.8172
+PONT	2018.9788
+PSAR	2018.4120
+PSAT	2018.1656
+PVOG	2018.8857
+PYL1	2018.7105
+RETS	2018.8884
+RGNI	2018.7707
+RLSO	2019.5921
+ROD3	2018.0068
+SISS	2019.7070
+STRF	2018.8172
+TRIZ	2017.9904
+VALI	2018.8172
+VLSM	2018.8638
+VLY1	2019.0664
+XILI	2018.0917
+ZNTE	2019.6140
+U
+ABEL	2017.8864
+AIGI	2017.8453
+AMFI	2017.8426
+ANIK	2017.9001
+ANOC	2017.8426
+ARSA	2017.8590
+ASSO	2017.8426
+ATAL	2017.8426
+DRA1	2017.8426
+DYNG	2017.8426
+EGIO	2019.4333
+EYPA	2017.8426
+FISK	2017.8426
+GAL3	2017.8426
+GEYB	2017.8426
+KAL3	2017.8426
+KIPO	2017.8426
+KOR1	2018.3272
+KOUN	2017.8426
+KRIN	2017.8426
+KTCH	2017.8426
+LAM8	2017.8426
+LEPE	2017.8426
+LIDO	2017.8426
+MESA	2017.8426
+MESO	2017.8426
+MTNA	2019.6222
+NAFP	2018.4285
+NOA1	2017.8426
+PAT0	2017.8426
+PONT	2017.8426
+PSAR	2017.8426
+PSAT	2017.8426
+PVOG	2017.8426
+PYL1	2017.8535
+RETS	2017.8617
+RGNI	2017.9247
+RLSO	2019.1869
+ROD3	2017.8453
+SISS	2017.8426
+STRF	2017.8426
+TRIZ	2017.8426
+VALI	2017.8426
+VLSM	2017.8426
+VLY1	2019.0363
+XILI	2017.8426
+ZNTE	2018.9213
+EQ9.1
+E
+ARK1	2020.0192
+HERA	2020.0246
+IDI0	2019.3621
+IERA	2020.0192
+RETH	2020.0192
+SIT1	2020.0192
+SIVA	2020.5092
+ZKRO	2019.3648
+N
+ARK1	2020.6379
+HERA	2020.1396
+IDI0	2020.6982
+IERA	2020.6242
+RETH	2020.6051
+SIT1	2020.6324
+SIVA	2020.5092
+ZKRO	2020.4298
+U
+ARK1	2020.0192
+HERA	2020.0246
+IDI0	2019.3621
+IERA	2020.0192
+RETH	2020.0192
+SIT1	2020.0192
+SIVA	2020.5092
+ZKRO	2019.3648
+EQ9.2
+E
+ARK1	2020.0192
+HERA	2020.0246
+IDI0	2019.3621
+IERA	2020.0192
+RETH	2020.0192
+SIT1	2020.0192
+SIVA	2020.5092
+ZKRO	2019.3648
+N
+ARK1	2020.6379
+HERA	2020.1396
+IDI0	2020.6982
+IERA	2020.6242
+RETH	2020.6051
+SIT1	2020.6324
+SIVA	2020.5092
+ZKRO	2020.4298
+U
+ARK1	2020.0192
+HERA	2020.0246
+IDI0	2019.3621
+IERA	2020.0192
+RETH	2020.0192
+SIT1	2020.0192
+SIVA	2020.5092
+ZKRO	2019.3648
+EQ10.1
+E
+ALE3	2020.0192
+ANDR	2020.0192
+ARK1	2020.0192
+AST5	2021.0294
+ASTY	2020.0192
+AYVL	2020.6954
+BAL1	2020.7502
+BNDR	2020.6954
+DATC	2020.6954
+DEI1	2020.6954
+DIDI	2020.6954
+DUTH	2019.8576
+EDIR	2020.7775
+GODA	2020.7775
+HAR3	2021.0267
+HERA	2020.0246
+IDI0	2019.8604
+IERA	2020.0192
+IKAR	2021.0294
+ISTN	2020.7337
+IZMI	2019.8576
+KALY	2020.0192
+KARB	2020.7337
+KATC	2019.8604
+KAV1	2020.0192
+KIKA	2020.7337
+KIRL	2020.7337
+KISM	2021.0294
+KOM1	2021.0294
+KRP1	2021.5222
+KRU1	2020.0192
+LEMN	2020.1314
+LES4	2020.0329
+MIL7	2019.8576
+MOI2	2021.5222
+MUG1	2020.7447
+MYKN	2021.5222
+NAXO	2020.0192
+NISY	2021.6838
+ORE1	2020.0192
+PRKV	2019.8576
+RETH	2020.0192
+RODO	2020.0192
+SALH	2020.7337
+SAM3	2020.0192
+SAN6	2019.8631
+SARY	2020.7337
+SIT1	2020.0192
+SIVA	2020.5092
+SKYR	2019.8576
+SLVR	2020.7337
+TEKR	2020.7337
+TUC2	2019.8576
+VAM0	2020.8542
+XIOS	2020.0192
+YEN1	2020.7337
+YLDZ	2019.9945
+ZKRO	2019.9398
+N
+ALE3	2021.4045
+ANDR	2020.7283
+ARK1	2021.4073
+AST5	2021.2676
+ASTY	2020.8323
+AYVL	2020.8323
+BAL1	2020.8296
+BNDR	2020.7146
+DATC	2020.8268
+DEI1	2020.7118
+DIDI	2020.8323
+DUTH	2020.7173
+EDIR	2020.9418
+GODA	2020.8268
+HAR3	2021.0595
+HERA	2020.7173
+IDI0	2020.6982
+IERA	2020.6242
+IKAR	2021.3005
+ISTN	2020.8323
+IZMI	2020.8323
+KALY	2020.8323
+KARB	2020.7337
+KATC	2019.8960
+KAV1	2020.8816
+KIKA	2020.8323
+KIRL	2020.9829
+KISM	2021.4264
+KOM1	2021.3689
+KRP1	2021.5222
+KRU1	2020.8789
+LEMN	2020.1314
+LES4	2020.8323
+MIL7	2021.3881
+MOI2	2021.5222
+MUG1	2020.9336
+MYKN	2021.5222
+NAXO	2020.3395
+NISY	2021.7878
+ORE1	2020.8296
+PRKV	2020.8460
+RETH	2021.3881
+RODO	2021.3881
+SALH	2020.8323
+SAM3	2020.8405
+SAN6	2020.6379
+SARY	2020.8268
+SIT1	2020.6324
+SIVA	2020.5092
+SKYR	2020.6461
+SLVR	2020.7967
+TEKR	2020.8323
+TUC2	2020.6489
+VAM0	2020.8816
+XIOS	2020.8323
+YEN1	2020.9829
+YLDZ	2020.0931
+ZKRO	2020.4298
+U
+ALE3	2020.0192
+ANDR	2020.0192
+ARK1	2020.0192
+AST5	2021.0294
+ASTY	2020.0192
+AYVL	2020.6954
+BAL1	2020.7502
+BNDR	2020.6954
+DATC	2020.6954
+DEI1	2020.6954
+DIDI	2020.6954
+DUTH	2019.8576
+EDIR	2020.7775
+GODA	2020.7775
+HAR3	2021.0267
+HERA	2020.0246
+IDI0	2019.8604
+IERA	2020.0192
+IKAR	2021.0294
+ISTN	2020.7337
+IZMI	2019.8576
+KALY	2020.0192
+KARB	2020.7337
+KATC	2019.8604
+KAV1	2020.0192
+KIKA	2020.7337
+KIRL	2020.7337
+KISM	2021.0294
+KOM1	2021.0294
+KRP1	2021.5222
+KRU1	2020.0192
+LEMN	2020.1314
+LES4	2020.0329
+MIL7	2019.8576
+MOI2	2021.5222
+MUG1	2020.7447
+MYKN	2021.5222
+NAXO	2020.0192
+NISY	2021.6838
+ORE1	2020.0192
+PRKV	2019.8576
+RETH	2020.0192
+RODO	2020.0192
+SALH	2020.7337
+SAM3	2020.0192
+SAN6	2019.8631
+SARY	2020.7337
+SIT1	2020.0192
+SIVA	2020.5092
+SKYR	2019.8576
+SLVR	2020.7337
+TEKR	2020.7337
+TUC2	2019.8576
+VAM0	2020.8542
+XIOS	2020.0192
+YEN1	2020.7337
+YLDZ	2019.9945
+ZKRO	2019.9398
+EQ10.2
+E
+ALE3	2020.0192
+ANDR	2020.0192
+ARK1	2020.0192
+AST5	2021.0294
+ASTY	2020.0192
+AYVL	2020.6954
+BAL1	2020.7502
+BNDR	2020.6954
+DATC	2020.6954
+DEI1	2020.6954
+DIDI	2020.6954
+DUTH	2019.8576
+EDIR	2020.7775
+GODA	2020.7775
+HAR3	2021.0267
+HERA	2020.0246
+IDI0	2019.8604
+IERA	2020.0192
+IKAR	2021.0294
+ISTN	2020.7337
+IZMI	2019.8576
+KALY	2020.0192
+KARB	2020.7337
+KATC	2019.8604
+KAV1	2020.0192
+KIKA	2020.7337
+KIRL	2020.7337
+KISM	2021.0294
+KOM1	2021.0294
+KRP1	2021.5222
+KRU1	2020.0192
+LEMN	2020.1314
+LES4	2020.0329
+MIL7	2019.8576
+MOI2	2021.5222
+MUG1	2020.7447
+MYKN	2021.5222
+NAXO	2020.0192
+NISY	2021.6838
+ORE1	2020.0192
+PRKV	2019.8576
+RETH	2020.0192
+RODO	2020.0192
+SALH	2020.7337
+SAM3	2020.0192
+SAN6	2019.8631
+SARY	2020.7337
+SIT1	2020.0192
+SIVA	2020.5092
+SKYR	2019.8576
+SLVR	2020.7337
+TEKR	2020.7337
+TUC2	2019.8576
+VAM0	2020.8542
+XIOS	2020.0192
+YEN1	2020.7337
+YLDZ	2019.9945
+ZKRO	2019.9398
+N
+ALE3	2021.4045
+ANDR	2020.7283
+ARK1	2021.4073
+AST5	2021.2676
+ASTY	2020.8323
+AYVL	2020.8323
+BAL1	2020.8296
+BNDR	2020.7146
+DATC	2020.8268
+DEI1	2020.7118
+DIDI	2020.8323
+DUTH	2020.7173
+EDIR	2020.9418
+GODA	2020.8268
+HAR3	2021.0595
+HERA	2020.7173
+IDI0	2020.6982
+IERA	2020.6242
+IKAR	2021.3005
+ISTN	2020.8323
+IZMI	2020.8323
+KALY	2020.8323
+KARB	2020.7337
+KATC	2019.8960
+KAV1	2020.8816
+KIKA	2020.8323
+KIRL	2020.9829
+KISM	2021.4264
+KOM1	2021.3689
+KRP1	2021.5222
+KRU1	2020.8789
+LEMN	2020.1314
+LES4	2020.8323
+MIL7	2021.3881
+MOI2	2021.5222
+MUG1	2020.9336
+MYKN	2021.5222
+NAXO	2020.3395
+NISY	2021.7878
+ORE1	2020.8296
+PRKV	2020.8460
+RETH	2021.3881
+RODO	2021.3881
+SALH	2020.8323
+SAM3	2020.8405
+SAN6	2020.6379
+SARY	2020.8268
+SIT1	2020.6324
+SIVA	2020.5092
+SKYR	2020.6461
+SLVR	2020.7967
+TEKR	2020.8323
+TUC2	2020.6489
+VAM0	2020.8816
+XIOS	2020.8323
+YEN1	2020.9829
+YLDZ	2020.0931
+ZKRO	2020.4298
+U
+ALE3	2020.0192
+ANDR	2020.0192
+ARK1	2020.0192
+AST5	2021.0294
+ASTY	2020.0192
+AYVL	2020.6954
+BAL1	2020.7502
+BNDR	2020.6954
+DATC	2020.6954
+DEI1	2020.6954
+DIDI	2020.6954
+DUTH	2019.8576
+EDIR	2020.7775
+GODA	2020.7775
+HAR3	2021.0267
+HERA	2020.0246
+IDI0	2019.8604
+IERA	2020.0192
+IKAR	2021.0294
+ISTN	2020.7337
+IZMI	2019.8576
+KALY	2020.0192
+KARB	2020.7337
+KATC	2019.8604
+KAV1	2020.0192
+KIKA	2020.7337
+KIRL	2020.7337
+KISM	2021.0294
+KOM1	2021.0294
+KRP1	2021.5222
+KRU1	2020.0192
+LEMN	2020.1314
+LES4	2020.0329
+MIL7	2019.8576
+MOI2	2021.5222
+MUG1	2020.7447
+MYKN	2021.5222
+NAXO	2020.0192
+NISY	2021.6838
+ORE1	2020.0192
+PRKV	2019.8576
+RETH	2020.0192
+RODO	2020.0192
+SALH	2020.7337
+SAM3	2020.0192
+SAN6	2019.8631
+SARY	2020.7337
+SIT1	2020.0192
+SIVA	2020.5092
+SKYR	2019.8576
+SLVR	2020.7337
+TEKR	2020.7337
+TUC2	2019.8576
+VAM0	2020.8542
+XIOS	2020.0192
+YEN1	2020.7337
+YLDZ	2019.9945
+ZKRO	2019.9398
