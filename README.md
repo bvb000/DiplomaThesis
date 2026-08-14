@@ -19,3 +19,5 @@ Point-Source_CoseismicDisp.ipynb uses the point source model to visualize the co
 [OLD] GNSS_CoseismicDisp.ipynb uses a Bayesian method to detect cycle slip and estimate the displacements per epoch. Results are saved in GNSSData.txt, GNSSVerify.txt, and CycleSlip.txt.
 
 [NEW] GNSS_Bayesian.ipynb uses a Bayesian method to detect cycle slip and estimate the displacements per epoch.
+
+GNSS_Maps.ipynb maps the results of GNSS_Bayesian.ipynb.
